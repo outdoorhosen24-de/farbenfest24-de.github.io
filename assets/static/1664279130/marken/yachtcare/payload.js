@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/yachtcare", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/yachtcare-epoxid-laminier-und-vergussharz-mit-haerter-333-g-167-g-yachtcare-4134326-1.jpg":"\u002Fassets\u002Fimages\u002Fyachtcare-epoxid-laminier-und-vergussharz-mit-haerter-333-g-167-g-yachtcare-4134326-1.webp"}}],fetch:{},mutations:void 0});

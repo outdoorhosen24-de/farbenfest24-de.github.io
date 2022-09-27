@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/baufas", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/aufbrennsperre-verarbeitungsfertig-5-l-baufas-7074487-1.jpg":"\u002Fassets\u002Fimages\u002Faufbrennsperre-verarbeitungsfertig-5-l-baufas-7074487-1.webp"}}],fetch:{},mutations:void 0});

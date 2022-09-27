@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/hasit", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/hasit-12-haftbruecke-15-kg-hasit-6766034-1.jpg":"\u002Fassets\u002Fimages\u002Fhasit-12-haftbruecke-15-kg-hasit-6766034-1.webp"}}],fetch:{},mutations:void 0});

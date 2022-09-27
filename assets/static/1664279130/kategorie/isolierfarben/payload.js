@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/isolierfarben", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/albrecht-aqua-titan-2k-epoxi-haftgrund-weisz-1-kg-albrecht-4423257-1.jpg":"\u002Fassets\u002Fimages\u002Falbrecht-aqua-titan-2k-epoxi-haftgrund-weisz-1-kg-albrecht-4423257-1.webp"}}],fetch:{},mutations:void 0});
