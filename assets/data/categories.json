@@ -1,107 +1,541 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "sprühlacke",
+        "name": "Sprühlacke",
+        "slug": "spruhlacke",
+        "productCategory": "Sprühlacke",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "klarlack-sprays",
+        "name": "Klarlack-Sprays",
+        "slug": "klarlack-sprays",
+        "productCategory": "Klarlack-Sprays",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "grundierung",
+        "name": "Grundierung",
+        "slug": "grundierung",
+        "productCategory": "Grundierung",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "haftgrund",
+        "name": "Haftgrund",
+        "slug": "haftgrund",
+        "productCategory": "Haftgrund",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "isoliergrund & sperrgrund",
+        "name": "Isoliergrund & Sperrgrund",
+        "slug": "isoliergrund-sperrgrund",
+        "productCategory": "Isoliergrund & Sperrgrund",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "lasuren & holzfarben",
+        "name": "Lasuren & Holzfarben",
+        "slug": "lasuren-holzfarben",
+        "productCategory": "Lasuren & Holzfarben",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "wetterschutzfarben",
+        "name": "Wetterschutzfarben",
+        "slug": "wetterschutzfarben",
+        "productCategory": "Wetterschutzfarben",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "lacke",
+        "name": "Lacke",
+        "slug": "lacke",
+        "productCategory": "Lacke",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "buntlacke",
+        "name": "Buntlacke",
+        "slug": "buntlacke",
+        "productCategory": "Buntlacke",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "holzgrundierungen",
+        "name": "Holzgrundierungen",
+        "slug": "holzgrundierungen",
+        "productCategory": "Holzgrundierungen",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
+        "key": "innenfarben",
+        "name": "Innenfarben",
+        "slug": "innenfarben",
+        "productCategory": "Innenfarben",
         "subCategories": []
     },
     {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
+        "key": "bunte wandfarben",
+        "name": "Bunte Wandfarben",
+        "slug": "bunte-wandfarben",
+        "productCategory": "Bunte Wandfarben",
         "subCategories": []
     },
     {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
+        "key": "klarlacke",
+        "name": "Klarlacke",
+        "slug": "klarlacke",
+        "productCategory": "Klarlacke",
         "subCategories": []
     },
     {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
+        "key": "holz-öle",
+        "name": "Holz-Öle",
+        "slug": "holz-ole",
+        "productCategory": "Holz-Öle",
         "subCategories": []
     },
     {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "außen-fassadenfarben",
+        "name": "Außen-Fassadenfarben",
+        "slug": "aussen-fassadenfarben",
+        "productCategory": "Außen-Fassadenfarben",
+        "subCategories": []
+    },
+    {
+        "key": "sockelfarben",
+        "name": "Sockelfarben",
+        "slug": "sockelfarben",
+        "productCategory": "Sockelfarben",
+        "subCategories": []
+    },
+    {
+        "key": "weiße wandfarben",
+        "name": "Weiße Wandfarben",
+        "slug": "weisse-wandfarben",
+        "productCategory": "Weiße Wandfarben",
+        "subCategories": []
+    },
+    {
+        "key": "holzlasuren",
+        "name": "Holzlasuren",
+        "slug": "holzlasuren",
+        "productCategory": "Holzlasuren",
+        "subCategories": []
+    },
+    {
+        "key": "kreativfarben",
+        "name": "Kreativfarben",
+        "slug": "kreativfarben",
+        "productCategory": "Kreativfarben",
+        "subCategories": []
+    },
+    {
+        "key": "kreidefarben",
+        "name": "Kreidefarben",
+        "slug": "kreidefarben",
+        "productCategory": "Kreidefarben",
+        "subCategories": []
+    },
+    {
+        "key": "naturfarben",
+        "name": "Naturfarben",
+        "slug": "naturfarben",
+        "productCategory": "Naturfarben",
+        "subCategories": []
+    },
+    {
+        "key": "silikatfarben",
+        "name": "Silikatfarben",
+        "slug": "silikatfarben",
+        "productCategory": "Silikatfarben",
+        "subCategories": []
+    },
+    {
+        "key": "tiefengrund",
+        "name": "Tiefengrund",
+        "slug": "tiefengrund",
+        "productCategory": "Tiefengrund",
+        "subCategories": []
+    },
+    {
+        "key": "fassadenfarben",
+        "name": "Fassadenfarben",
+        "slug": "fassadenfarben",
+        "productCategory": "Fassadenfarben",
+        "subCategories": []
+    },
+    {
+        "key": "fassadengrund",
+        "name": "Fassadengrund",
+        "slug": "fassadengrund",
+        "productCategory": "Fassadengrund",
+        "subCategories": []
+    },
+    {
+        "key": "weißlacke",
+        "name": "Weißlacke",
+        "slug": "weisslacke",
+        "productCategory": "Weißlacke",
+        "subCategories": []
+    },
+    {
+        "key": "grundier-sprays",
+        "name": "Grundier-Sprays",
+        "slug": "grundier-sprays",
+        "productCategory": "Grundier-Sprays",
+        "subCategories": []
+    },
+    {
+        "key": "spezialfarben",
+        "name": "Spezialfarben",
+        "slug": "spezialfarben",
+        "productCategory": "Spezialfarben",
+        "subCategories": []
+    },
+    {
+        "key": "badfarben",
+        "name": "Badfarben",
+        "slug": "badfarben",
+        "productCategory": "Badfarben",
+        "subCategories": []
+    },
+    {
+        "key": "effektputze",
+        "name": "Effektputze",
+        "slug": "effektputze",
+        "productCategory": "Effektputze",
+        "subCategories": []
+    },
+    {
+        "key": "buntlack-sprays",
+        "name": "Buntlack-Sprays",
+        "slug": "buntlack-sprays",
+        "productCategory": "Buntlack-Sprays",
+        "subCategories": []
+    },
+    {
+        "key": "abtönfarben",
+        "name": "Abtönfarben",
+        "slug": "abtonfarben",
+        "productCategory": "Abtönfarben",
+        "subCategories": []
+    },
+    {
+        "key": "autolack-sprays",
+        "name": "Autolack-Sprays",
+        "slug": "autolack-sprays",
+        "productCategory": "Autolack-Sprays",
+        "subCategories": []
+    },
+    {
+        "key": "speziallacke",
+        "name": "Speziallacke",
+        "slug": "speziallacke",
+        "productCategory": "Speziallacke",
+        "subCategories": []
+    },
+    {
+        "key": "metallschutzlacke",
+        "name": "Metallschutzlacke",
+        "slug": "metallschutzlacke",
+        "productCategory": "Metallschutzlacke",
+        "subCategories": []
+    },
+    {
+        "key": "möbellacke",
+        "name": "Möbellacke",
+        "slug": "mobellacke",
+        "productCategory": "Möbellacke",
+        "subCategories": []
+    },
+    {
+        "key": "fliesenlacke",
+        "name": "Fliesenlacke",
+        "slug": "fliesenlacke",
+        "productCategory": "Fliesenlacke",
+        "subCategories": []
+    },
+    {
+        "key": "fußbodenfarben",
+        "name": "Fußbodenfarben",
+        "slug": "fussbodenfarben",
+        "productCategory": "Fußbodenfarben",
+        "subCategories": []
+    },
+    {
+        "key": "lehmfarben",
+        "name": "Lehmfarben",
+        "slug": "lehmfarben",
+        "productCategory": "Lehmfarben",
+        "subCategories": []
+    },
+    {
+        "key": "vorlacke",
+        "name": "Vorlacke",
+        "slug": "vorlacke",
+        "productCategory": "Vorlacke",
+        "subCategories": []
+    },
+    {
+        "key": "kalkfarben",
+        "name": "Kalkfarben",
+        "slug": "kalkfarben",
+        "productCategory": "Kalkfarben",
+        "subCategories": []
+    },
+    {
+        "key": "treppenlacke & parkettlacke",
+        "name": "Treppenlacke & Parkettlacke",
+        "slug": "treppenlacke-parkettlacke",
+        "productCategory": "Treppenlacke & Parkettlacke",
+        "subCategories": []
+    },
+    {
+        "key": "beize",
+        "name": "Beize",
+        "slug": "beize",
+        "productCategory": "Beize",
+        "subCategories": []
+    },
+    {
+        "key": "fliesenfarben",
+        "name": "Fliesenfarben",
+        "slug": "fliesenfarben",
+        "productCategory": "Fliesenfarben",
+        "subCategories": []
+    },
+    {
+        "key": "fensterlacke",
+        "name": "Fensterlacke",
+        "slug": "fensterlacke",
+        "productCategory": "Fensterlacke",
+        "subCategories": []
+    },
+    {
+        "key": "bodenbeschichtungen",
+        "name": "Bodenbeschichtungen",
+        "slug": "bodenbeschichtungen",
+        "productCategory": "Bodenbeschichtungen",
+        "subCategories": []
+    },
+    {
+        "key": "garagen-bodenfarben",
+        "name": "Garagen-Bodenfarben",
+        "slug": "garagen-bodenfarben",
+        "productCategory": "Garagen-Bodenfarben",
+        "subCategories": []
+    },
+    {
+        "key": "spezial-sprays",
+        "name": "Spezial-Sprays",
+        "slug": "spezial-sprays",
+        "productCategory": "Spezial-Sprays",
+        "subCategories": []
+    },
+    {
+        "key": "latexfarben",
+        "name": "Latexfarben",
+        "slug": "latexfarben",
+        "productCategory": "Latexfarben",
+        "subCategories": []
+    },
+    {
+        "key": "vorstreichfarben",
+        "name": "Vorstreichfarben",
+        "slug": "vorstreichfarben",
+        "productCategory": "Vorstreichfarben",
+        "subCategories": []
+    },
+    {
+        "key": "holzpflege",
+        "name": "Holzpflege",
+        "slug": "holzpflege",
+        "productCategory": "Holzpflege",
+        "subCategories": []
+    },
+    {
+        "key": "grundierfarben",
+        "name": "Grundierfarben",
+        "slug": "grundierfarben",
+        "productCategory": "Grundierfarben",
+        "subCategories": []
+    },
+    {
+        "key": "anti-schimmelfarben",
+        "name": "Anti-Schimmelfarben",
+        "slug": "anti-schimmelfarben",
+        "productCategory": "Anti-Schimmelfarben",
+        "subCategories": []
+    },
+    {
+        "key": "heizkörperlacke",
+        "name": "Heizkörperlacke",
+        "slug": "heizkorperlacke",
+        "productCategory": "Heizkörperlacke",
+        "subCategories": []
+    },
+    {
+        "key": "holzbodenbeschichtungen",
+        "name": "Holzbodenbeschichtungen",
+        "slug": "holzbodenbeschichtungen",
+        "productCategory": "Holzbodenbeschichtungen",
+        "subCategories": []
+    },
+    {
+        "key": "künstlerfarben",
+        "name": "Künstlerfarben",
+        "slug": "kunstlerfarben",
+        "productCategory": "Künstlerfarben",
+        "subCategories": []
+    },
+    {
+        "key": "acrylfarben",
+        "name": "Acrylfarben",
+        "slug": "acrylfarben",
+        "productCategory": "Acrylfarben",
+        "subCategories": []
+    },
+    {
+        "key": "nikotinfarben",
+        "name": "Nikotinfarben",
+        "slug": "nikotinfarben",
+        "productCategory": "Nikotinfarben",
+        "subCategories": []
+    },
+    {
+        "key": "betonfarben",
+        "name": "Betonfarben",
+        "slug": "betonfarben",
+        "productCategory": "Betonfarben",
+        "subCategories": []
+    },
+    {
+        "key": "rostschutzgrund",
+        "name": "Rostschutzgrund",
+        "slug": "rostschutzgrund",
+        "productCategory": "Rostschutzgrund",
+        "subCategories": []
+    },
+    {
+        "key": "bauchemie",
+        "name": "Bauchemie",
+        "slug": "bauchemie",
+        "productCategory": "Bauchemie",
+        "subCategories": []
+    },
+    {
+        "key": "isolierfarben",
+        "name": "Isolierfarben",
+        "slug": "isolierfarben",
+        "productCategory": "Isolierfarben",
+        "subCategories": []
+    },
+    {
+        "key": "magnetfarben",
+        "name": "Magnetfarben",
+        "slug": "magnetfarben",
+        "productCategory": "Magnetfarben",
+        "subCategories": []
+    },
+    {
+        "key": "tafelfarben",
+        "name": "Tafelfarben",
+        "slug": "tafelfarben",
+        "productCategory": "Tafelfarben",
+        "subCategories": []
+    },
+    {
+        "key": "rostschutzfarben",
+        "name": "Rostschutzfarben",
+        "slug": "rostschutzfarben",
+        "productCategory": "Rostschutzfarben",
+        "subCategories": []
+    },
+    {
+        "key": "aquarellfarben",
+        "name": "Aquarellfarben",
+        "slug": "aquarellfarben",
+        "productCategory": "Aquarellfarben",
+        "subCategories": []
+    },
+    {
+        "key": "ölfarben",
+        "name": "Ölfarben",
+        "slug": "olfarben",
+        "productCategory": "Ölfarben",
+        "subCategories": []
+    },
+    {
+        "key": "sprühfarben",
+        "name": "Sprühfarben",
+        "slug": "spruhfarben",
+        "productCategory": "Sprühfarben",
+        "subCategories": []
+    },
+    {
+        "key": "textilfarben",
+        "name": "Textilfarben",
+        "slug": "textilfarben",
+        "productCategory": "Textilfarben",
+        "subCategories": []
+    },
+    {
+        "key": "bootslacke",
+        "name": "Bootslacke",
+        "slug": "bootslacke",
+        "productCategory": "Bootslacke",
+        "subCategories": []
+    },
+    {
+        "key": "effektmittel",
+        "name": "Effektmittel",
+        "slug": "effektmittel",
+        "productCategory": "Effektmittel",
+        "subCategories": []
+    },
+    {
+        "key": "weißlack-sprays",
+        "name": "Weißlack-Sprays",
+        "slug": "weisslack-sprays",
+        "productCategory": "Weißlack-Sprays",
+        "subCategories": []
+    },
+    {
+        "key": "effektfarben",
+        "name": "Effektfarben",
+        "slug": "effektfarben",
+        "productCategory": "Effektfarben",
+        "subCategories": []
+    },
+    {
+        "key": "holzwurmfrei",
+        "name": "Holzwurmfrei",
+        "slug": "holzwurmfrei",
+        "productCategory": "Holzwurmfrei",
+        "subCategories": []
+    },
+    {
+        "key": "farbmischservice",
+        "name": "Farbmischservice",
+        "slug": "farbmischservice",
+        "productCategory": "Farbmischservice",
+        "subCategories": []
+    },
+    {
+        "key": "farbtonfächer",
+        "name": "Farbtonfächer",
+        "slug": "farbtonfacher",
+        "productCategory": "Farbtonfächer",
+        "subCategories": []
+    },
+    {
+        "key": "holzreiniger",
+        "name": "Holzreiniger",
+        "slug": "holzreiniger",
+        "productCategory": "Holzreiniger",
         "subCategories": []
     }
 ]

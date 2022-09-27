@@ -1,17 +1,59 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "obi",
+        "name": "OBI",
+        "slug": "obi",
+        "productCategory": "OBI",
+        "localThumb": "/assets/images/hersteller/obi.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "pci",
+        "name": "PCI",
+        "slug": "pci",
+        "productCategory": "PCI",
+        "localThumb": "/assets/images/hersteller/pci.webp"
+    },
+    {
+        "key": "bondex",
+        "name": "BONDEX",
+        "slug": "bondex",
+        "productCategory": "BONDEX",
+        "localThumb": "/assets/images/hersteller/bondex.webp"
+    },
+    {
+        "key": "schöner wohnen-farbe",
+        "name": "SCHÖNER WOHNEN-Farbe",
+        "slug": "schoener-wohnen-farbe",
+        "productCategory": "SCHÖNER WOHNEN-Farbe",
+        "localThumb": "/assets/images/hersteller/schoener-wohnen-farbe.webp"
+    },
+    {
+        "key": "alpina",
+        "name": "Alpina",
+        "slug": "alpina",
+        "productCategory": "Alpina",
+        "localThumb": "/assets/images/hersteller/alpina.webp"
+    },
+    {
+        "key": "rust-oleum",
+        "name": "Rust-Oleum",
+        "slug": "rust-oleum",
+        "productCategory": "Rust-Oleum",
+        "localThumb": "/assets/images/hersteller/rust-oleum.webp"
+    },
+    {
+        "key": "gäbig+mätteli",
+        "name": "Gäbig+Mätteli",
+        "slug": "gaebig-maetteli",
+        "productCategory": "Gäbig+Mätteli",
+        "localThumb": "/assets/images/hersteller/gaebig-maetteli.webp"
+    },
+    {
+        "key": "rust oleum",
+        "name": "Rust Oleum",
+        "slug": "rust-oleum",
+        "productCategory": "Rust Oleum",
+        "localThumb": "/assets/images/hersteller/rust-oleum.webp"
     },
     {
         "key": "sonstige",
@@ -21,39 +63,60 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "schöner wohnen",
+        "name": "Schöner Wohnen",
+        "slug": "schoener-wohnen",
+        "productCategory": "Schöner Wohnen",
+        "localThumb": "/assets/images/hersteller/schoener-wohnen.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "biopin",
+        "name": "Biopin",
+        "slug": "biopin",
+        "productCategory": "Biopin",
+        "localThumb": "/assets/images/hersteller/biopin.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "xyladecor",
+        "name": "Xyladecor",
+        "slug": "xyladecor",
+        "productCategory": "Xyladecor",
+        "localThumb": "/assets/images/hersteller/xyladecor.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "clou",
+        "name": "CLOU",
+        "slug": "clou",
+        "productCategory": "CLOU",
+        "localThumb": "/assets/images/hersteller/clou.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "consolan",
+        "name": "Consolan",
+        "slug": "consolan",
+        "productCategory": "Consolan",
+        "localThumb": "/assets/images/hersteller/consolan.webp"
+    },
+    {
+        "key": "osmo",
+        "name": "Osmo",
+        "slug": "osmo",
+        "productCategory": "Osmo",
+        "localThumb": "/assets/images/hersteller/osmo.webp"
+    },
+    {
+        "key": "ytong",
+        "name": "Ytong",
+        "slug": "ytong",
+        "productCategory": "Ytong",
+        "localThumb": "/assets/images/hersteller/ytong.webp"
+    },
+    {
+        "key": "knauf",
+        "name": "Knauf",
+        "slug": "knauf",
+        "productCategory": "Knauf",
+        "localThumb": "/assets/images/hersteller/knauf.webp"
     },
     {
         "key": "cmi",
@@ -63,24 +126,220 @@
         "localThumb": "/assets/images/hersteller/cmi.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "dulux",
+        "name": "Dulux",
+        "slug": "dulux",
+        "productCategory": "Dulux",
+        "localThumb": "/assets/images/hersteller/dulux.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "resinence",
+        "name": "Resinence",
+        "slug": "resinence",
+        "productCategory": "Resinence",
+        "localThumb": "/assets/images/hersteller/resinence.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "hammerite",
+        "name": "Hammerite",
+        "slug": "hammerite",
+        "productCategory": "Hammerite",
+        "localThumb": "/assets/images/hersteller/hammerite.webp"
+    },
+    {
+        "key": "albrecht",
+        "name": "Albrecht",
+        "slug": "albrecht",
+        "productCategory": "Albrecht",
+        "localThumb": "/assets/images/hersteller/albrecht.webp"
+    },
+    {
+        "key": "pronatur",
+        "name": "Pronatur",
+        "slug": "pronatur",
+        "productCategory": "Pronatur",
+        "localThumb": "/assets/images/hersteller/pronatur.webp"
+    },
+    {
+        "key": "baufan",
+        "name": "Baufan",
+        "slug": "baufan",
+        "productCategory": "Baufan",
+        "localThumb": "/assets/images/hersteller/baufan.webp"
+    },
+    {
+        "key": "decotric",
+        "name": "decotric",
+        "slug": "decotric",
+        "productCategory": "decotric",
+        "localThumb": "/assets/images/hersteller/decotric.webp"
+    },
+    {
+        "key": "bona",
+        "name": "Bona",
+        "slug": "bona",
+        "productCategory": "Bona",
+        "localThumb": "/assets/images/hersteller/bona.webp"
+    },
+    {
+        "key": "tauris",
+        "name": "Tauris",
+        "slug": "tauris",
+        "productCategory": "Tauris",
+        "localThumb": "/assets/images/hersteller/tauris.webp"
+    },
+    {
+        "key": "saint-gobain weber",
+        "name": "Saint-Gobain Weber",
+        "slug": "saint-gobain-weber",
+        "productCategory": "Saint-Gobain Weber",
+        "localThumb": "/assets/images/hersteller/saint-gobain-weber.webp"
+    },
+    {
+        "key": "sakret",
+        "name": "Sakret",
+        "slug": "sakret",
+        "productCategory": "Sakret",
+        "localThumb": "/assets/images/hersteller/sakret.webp"
+    },
+    {
+        "key": "histor",
+        "name": "Histor",
+        "slug": "histor",
+        "productCategory": "Histor",
+        "localThumb": "/assets/images/hersteller/histor.webp"
+    },
+    {
+        "key": "stegu",
+        "name": "Stegu",
+        "slug": "stegu",
+        "productCategory": "Stegu",
+        "localThumb": "/assets/images/hersteller/stegu.webp"
+    },
+    {
+        "key": "elle decoration by crown",
+        "name": "ELLE Decoration by Crown",
+        "slug": "elle-decoration-by-crown",
+        "productCategory": "ELLE Decoration by Crown",
+        "localThumb": "/assets/images/hersteller/elle-decoration-by-crown.webp"
+    },
+    {
+        "key": "belton",
+        "name": "belton",
+        "slug": "belton",
+        "productCategory": "belton",
+        "localThumb": "/assets/images/hersteller/belton.webp"
+    },
+    {
+        "key": "edding",
+        "name": "EDDING",
+        "slug": "edding",
+        "productCategory": "EDDING",
+        "localThumb": "/assets/images/hersteller/edding.webp"
+    },
+    {
+        "key": "kreul",
+        "name": "KREUL",
+        "slug": "kreul",
+        "productCategory": "KREUL",
+        "localThumb": "/assets/images/hersteller/kreul.webp"
+    },
+    {
+        "key": "lukas",
+        "name": "Lukas",
+        "slug": "lukas",
+        "productCategory": "Lukas",
+        "localThumb": "/assets/images/hersteller/lukas.webp"
+    },
+    {
+        "key": "ultrament",
+        "name": "Ultrament",
+        "slug": "ultrament",
+        "productCategory": "Ultrament",
+        "localThumb": "/assets/images/hersteller/ultrament.webp"
+    },
+    {
+        "key": "hasit",
+        "name": "Hasit",
+        "slug": "hasit",
+        "productCategory": "Hasit",
+        "localThumb": "/assets/images/hersteller/hasit.webp"
+    },
+    {
+        "key": "baufas",
+        "name": "Baufas",
+        "slug": "baufas",
+        "productCategory": "Baufas",
+        "localThumb": "/assets/images/hersteller/baufas.webp"
+    },
+    {
+        "key": "lugato",
+        "name": "Lugato",
+        "slug": "lugato",
+        "productCategory": "Lugato",
+        "localThumb": "/assets/images/hersteller/lugato.webp"
+    },
+    {
+        "key": "rigips",
+        "name": "Rigips",
+        "slug": "rigips",
+        "productCategory": "Rigips",
+        "localThumb": "/assets/images/hersteller/rigips.webp"
+    },
+    {
+        "key": "laier",
+        "name": "Laier",
+        "slug": "laier",
+        "productCategory": "Laier",
+        "localThumb": "/assets/images/hersteller/laier.webp"
+    },
+    {
+        "key": "id",
+        "name": "id",
+        "slug": "id",
+        "productCategory": "id",
+        "localThumb": "/assets/images/hersteller/id.webp"
+    },
+    {
+        "key": "simply",
+        "name": "Simply",
+        "slug": "simply",
+        "productCategory": "Simply",
+        "localThumb": "/assets/images/hersteller/simply.webp"
+    },
+    {
+        "key": "giotto",
+        "name": "Giotto",
+        "slug": "giotto",
+        "productCategory": "Giotto",
+        "localThumb": "/assets/images/hersteller/giotto.webp"
+    },
+    {
+        "key": "kwasny",
+        "name": "Kwasny",
+        "slug": "kwasny",
+        "productCategory": "Kwasny",
+        "localThumb": "/assets/images/hersteller/kwasny.webp"
+    },
+    {
+        "key": "wohlert",
+        "name": "Wohlert",
+        "slug": "wohlert",
+        "productCategory": "Wohlert",
+        "localThumb": "/assets/images/hersteller/wohlert.webp"
+    },
+    {
+        "key": "mucki",
+        "name": "MUCKI",
+        "slug": "mucki",
+        "productCategory": "MUCKI",
+        "localThumb": "/assets/images/hersteller/mucki.webp"
+    },
+    {
+        "key": "yachtcare",
+        "name": "Yachtcare",
+        "slug": "yachtcare",
+        "productCategory": "Yachtcare",
+        "localThumb": "/assets/images/hersteller/yachtcare.webp"
     }
 ]
