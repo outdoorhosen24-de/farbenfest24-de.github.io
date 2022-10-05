@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "farbenfest24.de",
+    "hostname": "https://www.farbenfest24.de/",
+    "email": "farbenfest24.desurrealnetworks.io",
+    "organization": "farbenfest24.de",
+    "logoText": "Farbenfest24.de",
+    "title": "Farben & Lacke",
+    "subline": "Der Online Shop f\u00fcr Farben & Lacke",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "1876739",
+        "6049050",
+        "2691996",
+        "1764992",
+        "4306932",
+        "4740973"
+    ],
+    "winnerProducts": [
+        "6042493",
+        "5377320",
+        "1092253"
+    ],
+    "featuredCategories": [
+        "Latexfarben",
+        "Wei\u00dflack-Sprays",
+        "Wetterschutzfarben",
+        "Kreativfarben",
+        "Au\u00dfen-Fassadenfarben",
+        "Buntlack-Sprays"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Farben & Lacke",
-        "featureText": "Your featured text goes here",
+        "featureText": "Die Farben & Lacke sind ein beliebter Ort, um Farben und Lacke zu kaufen. Die Auswahl an Farben und Lacken ist sehr gro\u00df und die Preise sind sehr erschwinglich.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Farben & Lacke - Alles f\u00fcr Ihre kreativen Projekte!",
+            "metaDescription": "Farben & Lacke - der Online-Shop f\u00fcr Farben und Lacke. Hier finden Sie eine gro\u00dfe Auswahl an Farben und Lacke f\u00fcr jeden Anlass.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Farben & Lacke: Die besten Produkte f\u00fcr Ihr Zuhause",
+                    "text": "Die Welt der Farben und Lacke ist eine faszinierende und vielf\u00e4ltige. Es gibt unendlich viele M\u00f6glichkeiten, Farben und Lacke zu kombinieren, um einzigartige und beeindruckende Ergebnisse zu erzielen.\n\nDie Wahl der richtigen Farben und Lacke ist entscheidend f\u00fcr das Endergebnis eines Kunstwerks. Jede Farbe und jeder Lack hat seine eigenen Eigenschaften und Wirkungen. Es ist wichtig, sich mit den verschiedenen Optionen vertraut zu machen, bevor man sich f\u00fcr eine bestimmte Kombination entscheidet.\n\nDie Kombination von Farben und Lacke kann sehr komplex sein. Es gibt unendlich viele M\u00f6glichkeiten, Farben und Lacke zu kombinieren. Die Wahl der richtigen Kombination ist entscheidend f\u00fcr das Endergebnis.\n\nEinige K\u00fcnstler bevorzugen einfache Farbpaletten, w\u00e4hrend andere gerne mit vielen verschiedenen Farben und Lacken experimentieren. Es gibt kein richtig oder falsch, wenn es um die Wahl der Farben und Lacke geht. Jeder K\u00fcnstler hat seine eigene Vorstellung von der perfekten Farbpalette.\n\nDie Wahl der richtigen Farben und Lacke ist eine sehr pers\u00f6nliche Entscheidung. Es ist wichtig, sich mit den verschiedenen Optionen vertraut zu machen, bevor man sich f\u00fcr eine bestimmte Kombination entscheidet. Nur so kann man sicher sein, dass man die perfekte Farbpalette f\u00fcr sein Kunstwerk findet."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Farben & Lacke Shop",
+            "metaDescription": "Farben & Lacke Shop - Hier findest du alles, was du f\u00fcr dein n\u00e4chstes DIY-Projekt brauchst!",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Farben & Lacke - der Hersteller",
+            "metaDescription": "Farben & Lacke ist ein f\u00fchrender Hersteller von hochwertigen Farben und Lacken. Wir bieten eine breite Palette an Produkten f\u00fcr jeden Bedarf.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT - Die besten Farben & Lacke",
+        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Farben & Lacke f\u00fcr jeden Anlass. Jetzt online bestellen bei $KATEGORIE!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Farben & Lacke f\u00fcr $KATEGORIE",
+        "defaultMetaDescription": "Farben & Lacke f\u00fcr jeden Zweck finden Sie bei uns. Wir haben eine riesige Auswahl an $KATEGORIE und bieten Top-Qualit\u00e4t zu fairen Preisen.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist ein f\u00fchrender Hersteller von hochwertigen Farben und Lacken. Wir bieten Ihnen eine gro\u00dfe Auswahl an Farben und Lacken f\u00fcr jeden Anlass.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Farben & Lacke",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Farben & Lacke Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Farben & Lacke Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
