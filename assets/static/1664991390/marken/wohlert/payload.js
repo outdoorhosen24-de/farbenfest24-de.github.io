@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/wohlert", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/wohlert-pur-bootslack-seidenglaenzend-750-ml-wohlert-2495851-1.jpg":"\u002Fassets\u002Fimages\u002Fwohlert-pur-bootslack-seidenglaenzend-750-ml-wohlert-2495851-1.webp"}}],fetch:{},mutations:void 0});

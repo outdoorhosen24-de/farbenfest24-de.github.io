@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/rigips", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/rigips-vario-sicherheitsgrundierung-25-l-rigips-9644022-1.jpg":"\u002Fassets\u002Fimages\u002Frigips-vario-sicherheitsgrundierung-25-l-rigips-9644022-1.webp"}}],fetch:{},mutations:void 0});

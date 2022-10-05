@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/beize", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/aqua-clou-holzbeize-nussbaum-dunkel-250-ml-clou-2283372-1.jpg":"\u002Fassets\u002Fimages\u002Faqua-clou-holzbeize-nussbaum-dunkel-250-ml-clou-2283372-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/weisslack-sprays", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/alpina-alpinaweisz-sprueh-lack-400-ml-glaenzend-alpina-5380779-1.jpg":"\u002Fassets\u002Fimages\u002Falpina-alpinaweisz-sprueh-lack-400-ml-glaenzend-alpina-5380779-1.webp"}}],fetch:{},mutations:void 0});

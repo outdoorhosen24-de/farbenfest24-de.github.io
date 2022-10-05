@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/mucki", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/mucki-bastelfarbe-6er-set-80-ml-mucki-2765840-1.jpg":"\u002Fassets\u002Fimages\u002Fmucki-bastelfarbe-6er-set-80-ml-mucki-2765840-1.webp"}}],fetch:{},mutations:void 0});
