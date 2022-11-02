@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "farbenfest24.de",
     "hostname": "https://www.farbenfest24.de/",
     "email": "farbenfest24.desurrealnetworks.io",
     "organization": "farbenfest24.de",
     "logoText": "Farbenfest24.de",
     "title": "Farben & Lacke",
-    "subline": "Der Online Shop f\u00fcr Farben & Lacke",
+    "subline": "Der Online Shop für Farben & Lacke",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -29,10 +29,10 @@
     ],
     "featuredCategories": [
         "Latexfarben",
-        "Wei\u00dflack-Sprays",
+        "Weißlack-Sprays",
         "Wetterschutzfarben",
         "Kreativfarben",
-        "Au\u00dfen-Fassadenfarben",
+        "Außen-Fassadenfarben",
         "Buntlack-Sprays"
     ],
     "socialMediaAccounts": [],
@@ -46,48 +46,48 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Farben & Lacke",
-        "featureText": "Die Farben & Lacke sind ein beliebter Ort, um Farben und Lacke zu kaufen. Die Auswahl an Farben und Lacken ist sehr gro\u00df und die Preise sind sehr erschwinglich.",
+        "featureText": "Die Farben & Lacke sind ein beliebter Ort, um Farben und Lacke zu kaufen. Die Auswahl an Farben und Lacken ist sehr groß und die Preise sind sehr erschwinglich.",
         "index": {
-            "title": "Farben & Lacke - Alles f\u00fcr Ihre kreativen Projekte!",
-            "metaDescription": "Farben & Lacke - der Online-Shop f\u00fcr Farben und Lacke. Hier finden Sie eine gro\u00dfe Auswahl an Farben und Lacke f\u00fcr jeden Anlass.",
+            "title": "Farben & Lacke - Alles für Ihre kreativen Projekte!",
+            "metaDescription": "Farben & Lacke - der Online-Shop für Farben und Lacke. Hier finden Sie eine große Auswahl an Farben und Lacke für jeden Anlass.",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Farben & Lacke: Die besten Produkte f\u00fcr Ihr Zuhause",
-                    "text": "Die Welt der Farben und Lacke ist eine faszinierende und vielf\u00e4ltige. Es gibt unendlich viele M\u00f6glichkeiten, Farben und Lacke zu kombinieren, um einzigartige und beeindruckende Ergebnisse zu erzielen.\n\nDie Wahl der richtigen Farben und Lacke ist entscheidend f\u00fcr das Endergebnis eines Kunstwerks. Jede Farbe und jeder Lack hat seine eigenen Eigenschaften und Wirkungen. Es ist wichtig, sich mit den verschiedenen Optionen vertraut zu machen, bevor man sich f\u00fcr eine bestimmte Kombination entscheidet.\n\nDie Kombination von Farben und Lacke kann sehr komplex sein. Es gibt unendlich viele M\u00f6glichkeiten, Farben und Lacke zu kombinieren. Die Wahl der richtigen Kombination ist entscheidend f\u00fcr das Endergebnis.\n\nEinige K\u00fcnstler bevorzugen einfache Farbpaletten, w\u00e4hrend andere gerne mit vielen verschiedenen Farben und Lacken experimentieren. Es gibt kein richtig oder falsch, wenn es um die Wahl der Farben und Lacke geht. Jeder K\u00fcnstler hat seine eigene Vorstellung von der perfekten Farbpalette.\n\nDie Wahl der richtigen Farben und Lacke ist eine sehr pers\u00f6nliche Entscheidung. Es ist wichtig, sich mit den verschiedenen Optionen vertraut zu machen, bevor man sich f\u00fcr eine bestimmte Kombination entscheidet. Nur so kann man sicher sein, dass man die perfekte Farbpalette f\u00fcr sein Kunstwerk findet."
+                    "title": "Farben & Lacke: Die besten Produkte für Ihr Zuhause",
+                    "text": "Die Welt der Farben und Lacke ist eine faszinierende und vielfältige. Es gibt unendlich viele Möglichkeiten, Farben und Lacke zu kombinieren, um einzigartige und beeindruckende Ergebnisse zu erzielen.\n\nDie Wahl der richtigen Farben und Lacke ist entscheidend für das Endergebnis eines Kunstwerks. Jede Farbe und jeder Lack hat seine eigenen Eigenschaften und Wirkungen. Es ist wichtig, sich mit den verschiedenen Optionen vertraut zu machen, bevor man sich für eine bestimmte Kombination entscheidet.\n\nDie Kombination von Farben und Lacke kann sehr komplex sein. Es gibt unendlich viele Möglichkeiten, Farben und Lacke zu kombinieren. Die Wahl der richtigen Kombination ist entscheidend für das Endergebnis.\n\nEinige Künstler bevorzugen einfache Farbpaletten, während andere gerne mit vielen verschiedenen Farben und Lacken experimentieren. Es gibt kein richtig oder falsch, wenn es um die Wahl der Farben und Lacke geht. Jeder Künstler hat seine eigene Vorstellung von der perfekten Farbpalette.\n\nDie Wahl der richtigen Farben und Lacke ist eine sehr persönliche Entscheidung. Es ist wichtig, sich mit den verschiedenen Optionen vertraut zu machen, bevor man sich für eine bestimmte Kombination entscheidet. Nur so kann man sicher sein, dass man die perfekte Farbpalette für sein Kunstwerk findet."
                 }
             ]
         },
         "shop": {
             "title": "Farben & Lacke Shop",
-            "metaDescription": "Farben & Lacke Shop - Hier findest du alles, was du f\u00fcr dein n\u00e4chstes DIY-Projekt brauchst!",
+            "metaDescription": "Farben & Lacke Shop - Hier findest du alles, was du für dein nächstes DIY-Projekt brauchst!",
             "robots": "index, follow"
         },
         "hersteller": {
             "title": "Farben & Lacke - der Hersteller",
-            "metaDescription": "Farben & Lacke ist ein f\u00fchrender Hersteller von hochwertigen Farben und Lacken. Wir bieten eine breite Palette an Produkten f\u00fcr jeden Bedarf.",
+            "metaDescription": "Farben & Lacke ist ein führender Hersteller von hochwertigen Farben und Lacken. Wir bieten eine breite Palette an Produkten für jeden Bedarf.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
         "defaultTitle": "$PRODUKT - Die besten Farben & Lacke",
-        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Farben & Lacke f\u00fcr jeden Anlass. Jetzt online bestellen bei $KATEGORIE!",
+        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Farben & Lacke für jeden Anlass. Jetzt online bestellen bei $KATEGORIE!",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Farben & Lacke f\u00fcr $KATEGORIE",
-        "defaultMetaDescription": "Farben & Lacke f\u00fcr jeden Zweck finden Sie bei uns. Wir haben eine riesige Auswahl an $KATEGORIE und bieten Top-Qualit\u00e4t zu fairen Preisen.",
+        "defaultTitle": "Farben & Lacke für $KATEGORIE",
+        "defaultMetaDescription": "Farben & Lacke für jeden Zweck finden Sie bei uns. Wir haben eine riesige Auswahl an $KATEGORIE und bieten Top-Qualität zu fairen Preisen.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist ein f\u00fchrender Hersteller von hochwertigen Farben und Lacken. Wir bieten Ihnen eine gro\u00dfe Auswahl an Farben und Lacken f\u00fcr jeden Anlass.",
+        "defaultMetaDescription": "$HERSTELLER ist ein führender Hersteller von hochwertigen Farben und Lacken. Wir bieten Ihnen eine große Auswahl an Farben und Lacken für jeden Anlass.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
