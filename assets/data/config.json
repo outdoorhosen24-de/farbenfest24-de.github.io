@@ -51,12 +51,15 @@
             "title": "Farben & Lacke - Alles für Ihre kreativen Projekte!",
             "metaDescription": "Farben & Lacke - der Online-Shop für Farben und Lacke. Hier finden Sie eine große Auswahl an Farben und Lacke für jeden Anlass.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Farben & Lacke: Die besten Produkte für Ihr Zuhause",
-                    "text": "Die Welt der Farben und Lacke ist eine faszinierende und vielfältige. Es gibt unendlich viele Möglichkeiten, Farben und Lacke zu kombinieren, um einzigartige und beeindruckende Ergebnisse zu erzielen.\n\nDie Wahl der richtigen Farben und Lacke ist entscheidend für das Endergebnis eines Kunstwerks. Jede Farbe und jeder Lack hat seine eigenen Eigenschaften und Wirkungen. Es ist wichtig, sich mit den verschiedenen Optionen vertraut zu machen, bevor man sich für eine bestimmte Kombination entscheidet.\n\nDie Kombination von Farben und Lacke kann sehr komplex sein. Es gibt unendlich viele Möglichkeiten, Farben und Lacke zu kombinieren. Die Wahl der richtigen Kombination ist entscheidend für das Endergebnis.\n\nEinige Künstler bevorzugen einfache Farbpaletten, während andere gerne mit vielen verschiedenen Farben und Lacken experimentieren. Es gibt kein richtig oder falsch, wenn es um die Wahl der Farben und Lacke geht. Jeder Künstler hat seine eigene Vorstellung von der perfekten Farbpalette.\n\nDie Wahl der richtigen Farben und Lacke ist eine sehr persönliche Entscheidung. Es ist wichtig, sich mit den verschiedenen Optionen vertraut zu machen, bevor man sich für eine bestimmte Kombination entscheidet. Nur so kann man sicher sein, dass man die perfekte Farbpalette für sein Kunstwerk findet."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Farben & Lacke: Die besten Produkte für Ihr Zuhause",
+                        "text": "Die Welt der Farben und Lacke ist eine faszinierende und vielfältige. Es gibt unendlich viele Möglichkeiten, Farben und Lacke zu kombinieren, um einzigartige und beeindruckende Ergebnisse zu erzielen.\n\nDie Wahl der richtigen Farben und Lacke ist entscheidend für das Endergebnis eines Kunstwerks. Jede Farbe und jeder Lack hat seine eigenen Eigenschaften und Wirkungen. Es ist wichtig, sich mit den verschiedenen Optionen vertraut zu machen, bevor man sich für eine bestimmte Kombination entscheidet.\n\nDie Kombination von Farben und Lacke kann sehr komplex sein. Es gibt unendlich viele Möglichkeiten, Farben und Lacke zu kombinieren. Die Wahl der richtigen Kombination ist entscheidend für das Endergebnis.\n\nEinige Künstler bevorzugen einfache Farbpaletten, während andere gerne mit vielen verschiedenen Farben und Lacken experimentieren. Es gibt kein richtig oder falsch, wenn es um die Wahl der Farben und Lacke geht. Jeder Künstler hat seine eigene Vorstellung von der perfekten Farbpalette.\n\nDie Wahl der richtigen Farben und Lacke ist eine sehr persönliche Entscheidung. Es ist wichtig, sich mit den verschiedenen Optionen vertraut zu machen, bevor man sich für eine bestimmte Kombination entscheidet. Nur so kann man sicher sein, dass man die perfekte Farbpalette für sein Kunstwerk findet."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Farben & Lacke Shop",
