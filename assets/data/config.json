@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "farbenfest24.de",
     "hostname": "https://www.farbenfest24.de/",
     "email": "farbenfest24.de@surrealnetworks.io",
     "organization": "farbenfest24.de",
     "logoText": "Farbenfest24.de",
     "title": "Farben & Lacke",
-    "subline": "Der Online Shop für Farben & Lacke",
+    "subline": "Farben und Lacke günstig online bestellen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Farben & Lacke",
-        "featureText": "Die Farben & Lacke sind ein beliebter Ort, um Farben und Lacke zu kaufen. Die Auswahl an Farben und Lacken ist sehr groß und die Preise sind sehr erschwinglich.",
+        "featureText": "Herzlich Willkommen in unserem Online-Shop! Hier findest du alles rund um das Thema Farben und Lacke: ob für Tapeten, Gartenmöbel, Autos, Fliesen, Heizkörper, Textilien oder auch für Malblöcke und Leinwände. Überzeuge dich selbst von unserem umfassenden Sortiment, das keine Wünsche offen lässt und finde noch viele weitere Produkte in unserem Shop. Auf dich warten tolle Markenprodukte zu fairen Preisen! Bestelle einfach und überzeuge dich selbst!",
         "index": {
-            "title": "Farben & Lacke - Alles für Ihre kreativen Projekte!",
-            "metaDescription": "Farben & Lacke - der Online-Shop für Farben und Lacke. Hier finden Sie eine große Auswahl an Farben und Lacke für jeden Anlass.",
+            "title": "Farben & Lacke - Alles für deine kreativen Projekte!",
+            "metaDescription": "Kreativfarben | Sprühlacke | Speziallacke | Grundierung | Schutzfarben | Wandfarben | Fassadenfarben uvm. Einfach und bequem online bestellen!",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Farben & Lacke Shop",
-            "metaDescription": "Farben & Lacke Shop - Hier findest du alles, was du für dein nächstes DIY-Projekt brauchst!",
+            "title": "Der Shop für Farben & Lacke",
+            "metaDescription": "Finde eine unschlagbare Auswahl unterschiedlicher Farben & Lacke. Unser Online Shop lässt keine Wünsche offen, um das nächste DIY-Projekt kreativ zu meistern!",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Farben & Lacke - der Hersteller",
-            "metaDescription": "Farben & Lacke ist ein führender Hersteller von hochwertigen Farben und Lacken. Wir bieten eine breite Palette an Produkten für jeden Bedarf.",
+            "title": "Farben & Lacke - die besten Markenanbieter bei uns!",
+            "metaDescription": "Überzeuge Dich selbst von unserer riesigen Auswahl bekannter Markenprodukte wie Alpina, Bondex, Edding, Knauf uvm. Wir garantieren Qualität und Langlebigkeit!",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT - Die besten Farben & Lacke",
-        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Farben & Lacke für jeden Anlass. Jetzt online bestellen bei $KATEGORIE!",
+        "defaultTitle": "$PRODUKT - Die perfekte Wahl für dein Projekt",
+        "defaultMetaDescription": "$PRODUKT vom Hersteller $HERSTELLER - Farben & Lacke für jeden Anlass.  Finde noch viele weitere passende Produkte in der Kategorie $KATEGORIE.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Farben & Lacke für $KATEGORIE",
-        "defaultMetaDescription": "Farben & Lacke für jeden Zweck finden Sie bei uns. Wir haben eine riesige Auswahl an $KATEGORIE und bieten Top-Qualität zu fairen Preisen.",
+        "defaultTitle": "$KATEGORIE - eine riesige Auswahl hochwertiger Produkte!",
+        "defaultMetaDescription": "Bei uns findest Du eine riesige Auswahl an Produkten der Kategorie $KATEGORIE. Alles in einer Top-Qualität zu fairen Preisen.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist ein führender Hersteller von hochwertigen Farben und Lacken. Wir bieten Ihnen eine große Auswahl an Farben und Lacken für jeden Anlass.",
+        "defaultTitle": "Günstig Produkte von $HERSTELLER kaufen",
+        "defaultMetaDescription": "$HERSTELLER - immer die richtige Wahl! Jetzt ganz einfach online bestellen und weitere Produkte entdecken. Günstig. Zuverlässig. Langlebig.",
         "defaultRobots": "index, follow",
         "brands": [
             {
