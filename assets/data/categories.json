@@ -2,7 +2,7 @@
     {
         "key": "sprühlacke",
         "name": "Sprühlacke",
-        "slug": "spruhlacke",
+        "slug": "spruehlacke",
         "productCategory": "Sprühlacke",
         "subCategories": []
     },
@@ -93,7 +93,7 @@
     {
         "key": "holz-öle",
         "name": "Holz-Öle",
-        "slug": "holz-ole",
+        "slug": "holz-oele",
         "productCategory": "Holz-Öle",
         "subCategories": []
     },
@@ -219,7 +219,7 @@
     {
         "key": "abtönfarben",
         "name": "Abtönfarben",
-        "slug": "abtonfarben",
+        "slug": "abtoenfarben",
         "productCategory": "Abtönfarben",
         "subCategories": []
     },
@@ -247,7 +247,7 @@
     {
         "key": "möbellacke",
         "name": "Möbellacke",
-        "slug": "mobellacke",
+        "slug": "moebellacke",
         "productCategory": "Möbellacke",
         "subCategories": []
     },
@@ -373,7 +373,7 @@
     {
         "key": "heizkörperlacke",
         "name": "Heizkörperlacke",
-        "slug": "heizkorperlacke",
+        "slug": "heizkoerperlacke",
         "productCategory": "Heizkörperlacke",
         "subCategories": []
     },
@@ -387,7 +387,7 @@
     {
         "key": "künstlerfarben",
         "name": "Künstlerfarben",
-        "slug": "kunstlerfarben",
+        "slug": "kuenstlerfarben",
         "productCategory": "Künstlerfarben",
         "subCategories": []
     },
@@ -464,14 +464,14 @@
     {
         "key": "ölfarben",
         "name": "Ölfarben",
-        "slug": "olfarben",
+        "slug": "oelfarben",
         "productCategory": "Ölfarben",
         "subCategories": []
     },
     {
         "key": "sprühfarben",
         "name": "Sprühfarben",
-        "slug": "spruhfarben",
+        "slug": "spruehfarben",
         "productCategory": "Sprühfarben",
         "subCategories": []
     },
@@ -527,7 +527,7 @@
     {
         "key": "farbtonfächer",
         "name": "Farbtonfächer",
-        "slug": "farbtonfacher",
+        "slug": "farbtonfaecher",
         "productCategory": "Farbtonfächer",
         "subCategories": []
     },
