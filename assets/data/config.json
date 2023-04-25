@@ -1,472 +1,475 @@
 {
-    "configIsReady": true,
-    "domain": "farbenfest24.de",
-    "hostname": "https://www.farbenfest24.de/",
-    "email": "farbenfest24.de@surrealnetworks.io",
-    "organization": "farbenfest24.de",
-    "logoText": "Farbenfest24.de",
-    "title": "Farben & Lacke",
-    "subline": "Farben und Lacke günstig online bestellen",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "1876739",
-        "6049050",
-        "2691996",
-        "1764992",
-        "4306932",
-        "4740973"
-    ],
-    "winnerProducts": [
-        "6042493",
-        "5377320",
-        "1092253"
-    ],
-    "featuredCategories": [
-        "Latexfarben",
-        "Weißlack-Sprays",
-        "Wetterschutzfarben",
-        "Kreativfarben",
-        "Außen-Fassadenfarben",
-        "Buntlack-Sprays"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Farben & Lacke",
-        "featureText": "Herzlich Willkommen in unserem Online-Shop! Hier findest du alles rund um das Thema Farben und Lacke: ob für Tapeten, Gartenmöbel, Autos, Fliesen, Heizkörper, Textilien oder auch für Malblöcke und Leinwände. Überzeuge dich selbst von unserem umfassenden Sortiment, das keine Wünsche offen lässt und finde noch viele weitere Produkte in unserem Shop. Auf dich warten tolle Markenprodukte zu fairen Preisen! Bestelle einfach und überzeuge dich selbst!",
-        "index": {
-            "title": "Farben & Lacke - Alles für deine kreativen Projekte!",
-            "metaDescription": "Kreativfarben | Sprühlacke | Speziallacke | Grundierung | Schutzfarben | Wandfarben | Fassadenfarben uvm. Einfach und bequem online bestellen!",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Farbenfest24",
-                        "text": "Herzlich willkommen auf Farbenfest24, Ihrem Online-Shop für hochwertige Farben und Lacke. Wir bieten Ihnen eine große Auswahl an Produkten für jedes Projekt und jeden Bedarf. Von Sprühlacken über Klarlack-Sprays bis hin zu Grundierungen und Haftgrund, bei uns finden Sie alles, was Sie für ein perfektes Finish benötigen. Unsere Lasuren und Holzfarben sorgen für eine lange Lebensdauer Ihrer Möbel und Gebäude, während unsere Wetterschutzfarben Sie vor den Elementen schützen. Wir bieten auch Lacke und Holzgrundierungen für jeden Bedarf und Geschmack. Stöbern Sie in unseren Kategorien und entdecken Sie unser vielfältiges Angebot an Farben und Lacke. Wir freuen uns darauf, Sie auf Ihrer Farbenreise zu begleiten!"
-                    },
-                    {
-                        "title": "Sprühlacke",
-                        "text": "Entdecken Sie bei Farbenfest24 eine breite Auswahl an hochwertigen <a href=\"/kategorie/spruehlacke/\" title=\"Sprühlacke\">Sprühlacke</a>n für alle Ihre Projekte. Von Autolacken bis hin zu Möbeln und Heimwerkerprojekten, wir haben die richtige Sprühlacklösung für Sie. Unsere Sprühlacke sind einfach aufzutragen, schnell trocknend und bieten ein gleichmäßiges Finish. Wählen Sie aus einer Vielzahl von Farben und Finishes, um das perfekte Ergebnis zu erzielen. Überzeugen Sie sich selbst von der Qualität unserer Sprühlacke und bestellen Sie noch heute!"
-                    },
-                    {
-                        "title": "Klarlack-Sprays",
-                        "text": "Schützen Sie Ihre Projekte mit unseren hochwertigen <a href=\"/kategorie/klarlack-sprays/\" title=\"Klarlack-Sprays\">Klarlack-Sprays</a>. Unsere Klarlacke bieten eine lange Haltbarkeit und Schutz vor Kratzern und UV-Strahlen. Wählen Sie aus einer Vielzahl von Klarlack-Optionen, einschließlich sprühfähiger und lösungsmittelhaltiger Klarlacke, um das perfekte Finish für Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
-                    },
-                    {
-                        "title": "Grundierung",
-                        "text": "Geben Sie Ihren Projekten eine solide Basis mit unseren hochwertigen <a href=\"/kategorie/grundierung/\" title=\"Grundierung\">Grundierung</a>en. Unsere Grundierungen bereiten das Material für die Anwendung von Farben oder Lacke vor und verbessern die Haftung und Abdeckung. Wählen Sie aus einer Vielzahl von Grundierungslösungen, einschließlich sprühfähiger und lösungsmittelhaltiger Optionen, um das beste Ergebnis für Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
-                    },
-                    {
-                        "title": "Haftgrund",
-                        "text": "Verbessern Sie die Haftung Ihrer Projekte mit unseren hochwertigen <a href=\"/kategorie/haftgrund/\" title=\"Haftgrund\">Haftgrund</a>lösungen. Unsere Haftgrunde sorgen für eine bessere Haftung von Farben und Lacke auf verschiedenen Oberflächen. Wählen Sie aus einer Vielzahl von Haftgrundoptionen, einschließlich sprühfähiger und lösungsmittelhaltiger Lösungen, um das beste Ergebnis für Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
-                    },
-                    {
-                        "title": "Isoliergrund & Sperrgrund",
-                        "text": "Schützen Sie Ihre Projekte mit unseren hochwertigen Isolier- und Sperrgrundlösungen. Unsere Isolier- und Sperrgrunde sorgen für eine barrierefreie Oberfläche, die Farben und Lacke gleichmäßiger aufnimmt. Wählen Sie aus einer Vielzahl von Isolier- und Sperrgrundoptionen, einschließlich sprühfähiger und lösungsmittelhaltiger Lösungen, um das beste Ergebnis für Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
-                    },
-                    {
-                        "title": "Lasuren & Holzfarben",
-                        "text": "Schützen Sie Ihre Holzprojekte mit unseren hochwertigen Lasuren und Holzfarben. Unsere Lasuren und Holzfarben sorgen für eine lange Lebensdauer Ihrer Möbel und Gebäude, indem sie vor Feuchtigkeit und UV-Strahlen schützen. Wählen Sie aus einer Vielzahl von Lasuren- und Holzfarboptionen, einschließlich sprühfähiger und lösungsmittelhaltiger Lösungen, um das beste Ergebnis für Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
-                    },
-                    {
-                        "title": "Wetterschutzfarben",
-                        "text": "Schützen Sie Ihre Gebäude und Möbel mit unseren hochwertigen <a href=\"/kategorie/wetterschutzfarben/\" title=\"Wetterschutzfarben\">Wetterschutzfarben</a>. Unsere Wetterschutzfarben bieten langanhaltenden Schutz vor Regen, Schnee und UV-Strahlen. Wählen Sie aus einer Vielzahl von Wetterschutzfarboptionen, einschließlich sprühfähiger und lösungsmittelhaltiger Lösungen, um das beste Ergebnis für Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
-                    },
-                    {
-                        "title": "Lacke",
-                        "text": "Verleihen Sie Ihren Projekten ein glänzendes Finish mit unseren hochwertigen <a href=\"/kategorie/lacke/\" title=\"Lacke\">Lacke</a>. Unsere Lacke bieten eine gleichmäßige Abdeckung und eine lange Haltbarkeit. Wählen Sie aus einer Vielzahl von Lackoptionen, einschließlich sprühfähiger und lösungsmittelhaltiger Lösungen, um das beste Ergebnis für Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
-                    },
-                    {
-                        "title": "Buntlacke",
-                        "text": "Verleihen Sie Ihren Projekten Farbe mit unseren hochwertigen <a href=\"/kategorie/buntlacke/\" title=\"Buntlacke\">Buntlacke</a>n. Unsere Buntlacke bieten eine gleichmäßige Abdeckung und eine lange Haltbarkeit in einer Vielzahl von Farben. Wählen Sie aus einer Vielzahl von Buntlackoptionen, einschließlich sprühfähiger und lösungsmittelhaltiger Lösungen, um das beste Ergebnis für Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
-                    },
-                    {
-                        "title": "Holzgrundierungen",
-                        "text": "Verleihen Sie Ihren Holzprojekten eine solide Basis mit unseren hochwertigen <a href=\"/kategorie/holzgrundierungen/\" title=\"Holzgrundierungen\">Holzgrundierungen</a>. Unsere Holzgrundierungen bereiten das Holz für die Anwendung von Farben oder Lacke vor und verbessern die Haftung und Abdeckung. Wählen Sie aus einer Vielzahl von Holzgrundierungslösungen, einschließlich sprühfähiger und lösungsmittelhaltiger Optionen, um das beste Ergebnis für Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
-                    },
-                    {
-                        "title": "Innenfarben",
-                        "text": "Verleihen Sie Ihren Innenräumen Farbe mit unseren hochwertigen <a href=\"/kategorie/innenfarben/\" title=\"Innenfarben\">Innenfarben</a>. Unsere Innenfarben bieten eine gleichmäßige Abdeckung und eine lange Haltbarkeit. Wählen Sie aus einer Vielzahl von Innenfarboptionen, einschließlich sprühfähiger und lösungsmittelhaltiger Lösungen, um das beste Ergebnis für Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
-                    },
-                    {
-                        "title": "Bunte Wandfarben",
-                        "text": "Verleihen Sie Ihren Wänden Farbe mit unseren hochwertigen bunten Wandfarben. Unsere bunten Wandfarben bieten eine gleichmäßige Abdeckung und eine lange Haltbarkeit in einer Vielzahl von Farben. Wählen Sie aus einer Vielzahl von bunten Wandfarboptionen, einschließlich sprühfähiger und lösungsmittelhaltiger Lösungen, um das beste Ergebnis für Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
-                    },
-                    {
-                        "title": "Klarlacke",
-                        "text": "Verleihen Sie Ihren Projekten einen klaren, glänzenden Finish mit unseren hochwertigen <a href=\"/kategorie/klarlacke/\" title=\"Klarlacke\">Klarlacke</a>n. Unsere Klarlacke bieten eine gleichmäßige Abdeckung und eine lange Haltbarkeit. Wählen Sie aus einer Vielzahl von Klarlackoptionen, einschließlich sprühfähiger und lösungsmittelhaltiger Lösungen, um das beste Ergebnis für Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
-                    },
-                    {
-                        "title": "Holz-Öle",
-                        "text": "Schützen und pflegen Sie Ihre Holzprojekte mit unseren hochwertigen <a href=\"/kategorie/holz-oele/\" title=\"Holz-Öle\">Holz-Öle</a>n. Unsere Holz-Öle bieten langanhaltenden Schutz und eine glänzende Oberfläche. Wählen Sie aus einer Vielzahl von Holz-Öloptionen, einschließlich lösungsmittelhaltiger und wasserbasierter Lösungen, um das beste Ergebnis für Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
-                    },
-                    {
-                        "title": "Außen-Fassadenfarben",
-                        "text": "Schützen Sie Ihre Außenwände und -fassaden mit unseren hochwertigen <a href=\"/kategorie/aussen-fassadenfarben/\" title=\"Aussen-Fassadenfarben\">Aussen-Fassadenfarben</a>. Unsere Außen-Fassadenfarben bieten langanhaltenden Schutz vor Wetterbedingungen und UV-Strahlen. Wählen Sie aus einer Vielzahl von Außen-Fassadenfarboptionen, einschließlich sprühfähiger und lösungsmittelhaltiger Lösungen, um das beste Ergebnis für Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
-                    },
-                    {
-                        "title": "Sockelfarben",
-                        "text": "Schützen Sie Ihre Sockelleisten und Wandbereiche mit unseren hochwertigen <a href=\"/kategorie/sockelfarben/\" title=\"Sockelfarben\">Sockelfarben</a>. Unsere Sockelfarben bieten eine gleichmäßige Abdeckung und eine lange Haltbarkeit. Wählen Sie aus einer Vielzahl von Sockelfarboptionen, einschließlich sprühfähiger und lösungsmittelhaltiger Lösungen, um das beste Ergebnis für Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
-                    },
-                    {
-                        "title": "Weiße Wandfarben",
-                        "text": "Verleihen Sie Ihren Wänden eine frische, saubere Optik mit unseren hochwertigen weißen Wandfarben. Unsere weißen Wandfarben bieten eine gleichmäßige Abdeckung und eine lange Haltbarkeit. Wählen Sie aus einer Vielzahl von weißen Wandfarboptionen, einschließlich sprühfähiger und lösungsmittelhaltiger Lösungen, um das beste Ergebnis für Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
-                    },
-                    {
-                        "title": "Holzlasuren",
-                        "text": "Schützen und verleihen Sie Ihren Holzprojekten einen ansprechenden Look mit unseren hochwertigen <a href=\"/kategorie/holzlasuren/\" title=\"Holzlasuren\">Holzlasuren</a>. Unsere Holzlasuren bieten eine gleichmäßige Abdeckung und eine lange Haltbarkeit. Wählen Sie aus einer Vielzahl von Holzlasuroptionen, einschließlich sprühfähiger und lösungsmittelhaltiger Lösungen, um das beste Ergebnis für Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
-                    },
-                    {
-                        "title": "Kreativfarben",
-                        "text": "Lassen Sie Ihrer Kreativität freien Lauf mit unseren hochwertigen <a href=\"/kategorie/kreativfarben/\" title=\"Kreativfarben\">Kreativfarben</a>. Unsere Kreativfarben eignen sich hervorragend für alle Arten von künstlerischen Projekten, einschließlich Malerei, Zeichnung und Papierarbeiten. Wählen Sie aus einer Vielzahl von Farboptionen, einschließlich Acryl- und Ölfarben, um das beste Ergebnis für Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
-                    },
-                    {
-                        "title": "Kreidefarben",
-                        "text": "Verleihen Sie Ihren Projekten einen besonderen Vintage-Look mit unseren hochwertigen <a href=\"/kategorie/kreidefarben/\" title=\"Kreidefarben\">Kreidefarben</a>. Unsere Kreidefarben eignen sich hervorragend für Möbel, Wände und andere DIY-Projekte. Wählen Sie aus einer Vielzahl von Farboptionen, einschließlich Schattierungen von Weiß und Pastelltönen, um das beste Ergebnis für Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
-                    },
-                    {
-                        "title": "Naturfarben",
-                        "text": "Schaffen Sie eine gesunde und natürliche Umgebung in Ihrem Zuhause mit unseren hochwertigen <a href=\"/kategorie/naturfarben/\" title=\"Naturfarben\">Naturfarben</a>. Unsere Naturfarben sind frei von schädlichen Chemikalien und bestehen aus natürlichen Rohstoffen wie Lehm, Kalk und Pigmenten. Wählen Sie aus einer Vielzahl von Farboptionen, einschließlich Weiß- und Beigetönen, um das beste Ergebnis für Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
-                    },
-                    {
-                        "title": "Silikatfarben",
-                        "text": "Schützen Sie Ihre Wand- und Fassadenflächen vor Feuchtigkeit und Schimmel mit unseren hochwertigen <a href=\"/kategorie/silikatfarben/\" title=\"Silikatfarben\">Silikatfarben</a>. Unsere Silikatfarben sind atmungsaktiv und bestehen aus natürlichen Rohstoffen wie Quarzsand, Kalk und Pigmenten. Wählen Sie aus einer Vielzahl von Farboptionen, einschließlich Weiß- und Beigetönen, um das beste Ergebnis für Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
-                    },
-                    {
-                        "title": "Tiefengrund",
-                        "text": "Erzielen Sie eine gleichmäßige Oberflächenbeschichtung und eine optimale Haftung mit unseren hochwertigen <a href=\"/kategorie/tiefengrund/\" title=\"Tiefengrund\">Tiefengrund</a>ierungen. Unsere Tiefengrundierungen eignen sich hervorragend für die Vorbereitung von Oberflächen vor dem Streichen oder Verputzen. Wählen Sie aus einer Vielzahl von Grundierungsoptionen, einschließlich Haftgrund und Isoliergrund, um das beste Ergebnis für Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
-                    },
-                    {
-                        "title": "Fassadenfarben",
-                        "text": "Schützen Sie Ihre Außenwände vor Wetterbedingungen und beleben Sie Ihr Zuhause mit unseren hochwertigen <a href=\"/kategorie/fassadenfarben/\" title=\"Fassadenfarben\">Fassadenfarben</a>. Unsere Fassadenfarben sind langlebig und beständig gegen Feuchtigkeit, Schimmel und UV-Strahlen. Wählen Sie aus einer Vielzahl von Farboptionen, einschließlich Wetterschutzfarben und Buntlacke, um das beste Ergebnis für Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
-                    },
-                    {
-                        "title": "Fassadengrund",
-                        "text": "Entdecken Sie bei Farbenfest24 eine große Auswahl an Fassadengründen für den perfekten Schutz Ihrer Außenwände. Unsere Fassadengründe sorgen für eine optimale Haftung der späteren Farb- und Anstrichelagen. Stöbern Sie jetzt durch unser Sortiment und finden Sie das passende Produkt für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Weißlacke",
-                        "text": "Mit den hochwertigen <a href=\"/kategorie/weisslacke/\" title=\"Weisslacke\">Weisslacke</a>n von Farbenfest24 können Sie jeden Raum in Ihrem Zuhause in ein echtes Highlight verwandeln. Unsere Weißlacke bieten eine hohe Deckkraft und eine gleichmäßige Oberflächenbeschichtung. Entdecken Sie jetzt unsere Auswahl an Weißlacken und verleihen Sie Ihren Räumen eine frische Optik."
-                    },
-                    {
-                        "title": "Grundier-Sprays",
-                        "text": "Bei Farbenfest24 finden Sie eine breite Auswahl an <a href=\"/kategorie/grundier-sprays/\" title=\"Grundier-Sprays\">Grundier-Sprays</a> für eine einfache und schnelle Anwendung. Unsere Grundier-Sprays sorgen für eine optimale Haftung der späteren Farb- und Anstrichelagen. Entdecken Sie jetzt unser Sortiment und finden Sie das passende Grundier-Spray für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Spezialfarben für jedes Projekt",
-                        "text": "In unserer Kategorie Spezialfarben finden Sie eine breite Auswahl an Farben für besondere Anforderungen und Projekte. Ob für den Einsatz im Außenbereich, für den Einsatz in Feuchträumen oder für besondere Effekte, wir bieten Ihnen die passende Farbe für Ihr Projekt. Durchstöbern Sie jetzt unsere Auswahl an hochwertigen Spezialfarben und finden Sie die perfekte Farbe für Ihr Vorhaben."
-                    },
-                    {
-                        "title": "Badfarben für ein angenehmes Badeerlebnis",
-                        "text": "Mit den richtigen Farben können Sie Ihr Badezimmer in eine Wohlfühloase verwandeln. In unserer Kategorie Badfarben bieten wir Ihnen eine breite Auswahl an Farben für den Einsatz im Badezimmer. Von klassischen Weißtönen bis hin zu ausgefallenen Farbkombinationen finden Sie bei uns die passende Farbe für Ihr Badezimmer. Überzeugen Sie sich selbst von unserem Sortiment an hochwertigen Badfarben."
-                    },
-                    {
-                        "title": "Effektputze für besondere Oberflächen",
-                        "text": "Mit Effektputzen können Sie Ihren Wänden eine ganz besondere Optik verleihen. Ob für den Einsatz im Wohnbereich, im Badezimmer oder im Außenbereich, Effektputze bieten unendliche Gestaltungsmöglichkeiten. In unserer Kategorie Effektputze finden Sie eine breite Auswahl an hochwertigen Putzen für den Einsatz an Ihren Wänden. Entdecken Sie jetzt die vielfältigen Möglichkeiten mit Effektputzen."
-                    },
-                    {
-                        "title": "Buntlack-Sprays",
-                        "text": "<a href=\"/kategorie/buntlack-sprays/\" title=\"Buntlack-Sprays\">Buntlack-Sprays</a> sind eine großartige Wahl für jeden, der eine schnelle und einfache Möglichkeit sucht, seine Gegenstände zu lackieren. Diese Sprays ermöglichen es, eine gleichmäßige und farbintensive Oberfläche zu erzielen, ohne dass man viel Zeit oder Fähigkeiten benötigt. Farbenfest24 bietet eine breite Palette an Buntlack-Sprays in verschiedenen Farben und Finishes, von glänzend bis matts, um Ihre Projekte zum Leben zu erwecken. Besuchen Sie jetzt unseren Online-Shop und entdecken Sie die Vorteile der Buntlack-Sprays."
-                    },
-                    {
-                        "title": "Abtönfarben",
-                        "text": "<a href=\"/kategorie/abtoenfarben/\" title=\"Abtönfarben\">Abtönfarben</a> sind ein unverzichtbares Werkzeug für jeden, der an DIY-Projekten arbeitet. Diese Farben ermöglichen es Ihnen, Ihre Möbel oder Gegenstände einfach und schnell in eine neue Farbe zu bringen, ohne dass Sie die ursprüngliche Farbe entfernen müssen. Farbenfest24 bietet eine breite Palette an Abtönfarben in verschiedenen Farben und Finishes, damit Sie Ihre Projekte nach Ihren Wünschen gestalten können. Besuchen Sie jetzt unseren Online-Shop und entdecken Sie die Möglichkeiten, die Abtönfarben bieten."
-                    },
-                    {
-                        "title": "Autolack-Sprays",
-                        "text": "<a href=\"/kategorie/autolack-sprays/\" title=\"Autolack-Sprays\">Autolack-Sprays</a> sind eine praktische und kosteneffiziente Lösung für alle, die ihr Auto reparieren oder auffrischen möchten. Diese Sprays ermöglichen es Ihnen, kleine Kratzer oder Beulen auf Ihrem Auto schnell und einfach zu reparieren, ohne einen teuren Lackierer aufzusuchen. Farbenfest24 bietet eine breite Palette an Autolack-Sprays in verschiedenen Farben und Finishes, damit Sie Ihr Auto wieder in neuem Glanz erstrahlen lassen können. Besuchen Sie jetzt unseren Online-Shop und entdecken Sie die Vorteile der Autolack-Sprays."
-                    },
-                    {
-                        "title": "Speziallacke",
-                        "text": "<a href=\"/kategorie/speziallacke/\" title=\"Speziallacke\">Speziallacke</a> sind hochwertige Lacke, die für besondere Anwendungsbereiche entwickelt wurden. Diese Lacke bieten eine hervorragende Abrieb- und Kratzfestigkeit sowie eine hohe Beständigkeit gegenüber Feuchtigkeit und Chemikalien. Mit Speziallacken können Sie alle Oberflächen optimal schützen und gleichzeitig ein ansprechendes Aussehen erzielen. Entdecken Sie die vielfältigen Möglichkeiten, die Ihnen unsere Speziallacke bieten, und finden Sie die passende Lösung für Ihre Projekte. "
-                    },
-                    {
-                        "title": "Metallschutzlacke",
-                        "text": "<a href=\"/kategorie/metallschutzlacke/\" title=\"Metallschutzlacke\">Metallschutzlacke</a> sind eine hervorragende Wahl, um Metalloberflächen zu schützen und vor Rost und Korrosion zu bewahren. Diese Lacke bieten eine hohe Beständigkeit gegen Feuchtigkeit und Chemikalien sowie eine hervorragende Haftfähigkeit auf Metall. Mit Metallschutzlacken können Sie eine lange Lebensdauer für Ihre Metallteile sicherstellen und gleichzeitig ein ansprechendes Aussehen erzielen. Entdecken Sie die Vorteile, die Ihnen unsere Metallschutzlacke bieten, und finden Sie die passende Lösung für Ihre Projekte. "
-                    },
-                    {
-                        "title": "Möbellacke",
-                        "text": "<a href=\"/kategorie/moebellacke/\" title=\"Möbellacke\">Möbellacke</a> sind eine hervorragende Wahl, um Möbelstücke zu schützen und ihnen ein ansprechendes Aussehen zu verleihen. Diese Lacke bieten eine hohe Beständigkeit gegen Feuchtigkeit und Abrieb sowie eine hervorragende Haftfähigkeit auf Holz. Mit Möbellacken können Sie jedem Möbelstück eine lange Lebensdauer sicherstellen und gleichzeitig ein ansprechendes Aussehen erzielen. Entdecken Sie die Vorteile, die Ihnen unsere Möbellacke bieten, und finden Sie die passende Lösung für Ihre Projekte."
-                    },
-                    {
-                        "title": "Fliesenlacke",
-                        "text": "<a href=\"/kategorie/fliesenlacke/\" title=\"Fliesenlacke\">Fliesenlacke</a> von Farbenfest24: Entdecken Sie die Vielfalt an hochwertigen Fliesenlacken für Ihre Fliesen. Ob als Neuanstrich oder Renovierung, mit den Fliesenlacken von Farbenfest24 können Sie Ihre Fliesen in neuem Glanz erstrahlen lassen. Alle Lacke sind hochwertig und langlebig, sodass Sie lange Freude an Ihren renovierten Fliesen haben werden."
-                    },
-                    {
-                        "title": "Fußbodenfarben",
-                        "text": "Farbenfest24 bietet eine breite Palette an <a href=\"/kategorie/fussbodenfarben/\" title=\"Fussbodenfarben\">Fussbodenfarben</a>, die für eine Vielzahl von Untergründen geeignet sind. Ob für Holz- oder Betonböden, bei Farbenfest24 finden Sie die passende Farbe für Ihren Fußboden. Alle Farben sind langlebig, strapazierfähig und einfach zu verarbeiten. Entdecken Sie jetzt die Vielfalt an Fußbodenfarben von Farbenfest24."
-                    },
-                    {
-                        "title": "Lehmfarben",
-                        "text": "Erleben Sie die natürliche Schönheit von <a href=\"/kategorie/lehmfarben/\" title=\"Lehmfarben\">Lehmfarben</a> mit Farbenfest24. Unsere Lehmfarben sind aus natürlichen Rohstoffen hergestellt und eignen sich ideal für den Innenbereich. Die Farben sind atmungsaktiv und haben eine natürliche Feuchtigkeitsregulierung. Entdecken Sie jetzt die Vielfalt an Lehmfarben und bringen Sie Natur in Ihr Zuhause mit Farbenfest24."
-                    },
-                    {
-                        "title": "Vorlacke",
-                        "text": "Unsere hochwertigen <a href=\"/kategorie/vorlacke/\" title=\"Vorlacke\">Vorlacke</a> sind die perfekte Grundlage für eine lange Haltbarkeit und eine hervorragende Deckkraft Ihrer Farben. Wir bieten eine breite Palette an Farbtönen und verschiedenen Finish-Optionen, um Ihnen die besten Ergebnisse zu bieten. Verleihen Sie Ihren Projekten den perfekten Start mit unseren Vorlacken."
-                    },
-                    {
-                        "title": "Kalkfarben",
-                        "text": "Erleben Sie die natürliche Schönheit von <a href=\"/kategorie/kalkfarben/\" title=\"Kalkfarben\">Kalkfarben</a> in Ihrem Zuhause. Unsere Kalkfarben sind umweltfreundlich und geben Ihren Wänden eine natürliche Ausstrahlung. Wir bieten eine große Auswahl an Farbtönen und Finishes, damit Sie genau das erhalten, was Sie brauchen. Verleihen Sie Ihren Räumen eine warme und gemütliche Atmosphäre mit unseren Kalkfarben."
-                    },
-                    {
-                        "title": "Treppenlacke & Parkettlacke",
-                        "text": "Schützen Sie Ihre Böden vor Abnutzung und Verschleiß mit unseren hochwertigen Treppen- und Parkettlacken. Wir bieten eine breite Palette an Farbtönen und Finish-Optionen, um Ihnen die besten Ergebnisse zu bieten. Verleihen Sie Ihren Böden ein glänzendes Aussehen und eine lange Haltbarkeit mit unseren Treppen- und Parkettlacken."
-                    },
-                    {
-                        "title": "Beize",
-                        "text": "<a href=\"/kategorie/beize/\" title=\"Beize\">Beize</a> ist ein wichtiger Bestandteil jeder Renovierung oder Restaurierung. Es dient dazu, das Material vorzubereiten, bevor es gestrichen wird. Im Online-Shop von Farbenfest24 finden Sie eine große Auswahl an hochwertigen Beizen für alle Arten von Untergründen. Ob Holz, Mauerwerk, Metall oder andere Materialien - bei uns finden Sie die passende Beize für Ihr Projekt."
-                    },
-                    {
-                        "title": "Fliesenfarben",
-                        "text": "<a href=\"/kategorie/fliesenfarben/\" title=\"Fliesenfarben\">Fliesenfarben</a> bieten eine einfache und kostengünstige Möglichkeit, Ihre alten und abgenutzten Fliesen wieder aufzufrischen. Im Online-Shop von Farbenfest24 finden Sie eine große Auswahl an Fliesenfarben in verschiedenen Farbtönen, die Ihre Fliesen wieder zum Strahlen bringen. Ob im Bad, Küche oder anderen Räumen - mit Fliesenfarben können Sie schnell und einfach ein neues Aussehen schaffen."
-                    },
-                    {
-                        "title": "Fensterlacke",
-                        "text": "<a href=\"/kategorie/fensterlacke/\" title=\"Fensterlacke\">Fensterlacke</a> sind ein wichtiger Bestandteil jeder Renovierung oder Restaurierung. Sie schützen das Holz vor Feuchtigkeit und UV-Strahlung und sorgen für eine lange Lebensdauer. Im Online-Shop von Farbenfest24 finden Sie eine große Auswahl an hochwertigen Fensterlacken für alle Arten von Holzfenstern. Ob Innen- oder Außenlacke - bei uns finden Sie die passende Lösung für Ihr Projekt."
-                    },
-                    {
-                        "title": "Bodenbeschichtungen",
-                        "text": "Im Online-Shop Farbenfest24 finden Sie eine große Auswahl an hochwertigen <a href=\"/kategorie/bodenbeschichtungen/\" title=\"Bodenbeschichtungen\">Bodenbeschichtungen</a>. Unsere Produkte sind langlebig und widerstandsfähig, um Ihrem Boden ein neues Leben zu verleihen. Stöbern Sie in unserer Kategorie Bodenbeschichtungen und entdecken Sie die perfekte Lösung für Ihren Boden."
-                    },
-                    {
-                        "title": "Garagen-Bodenfarben",
-                        "text": "Geben Sie Ihrer Garage ein neues Aussehen mit den hochwertigen <a href=\"/kategorie/garagen-bodenfarben/\" title=\"Garagen-Bodenfarben\">Garagen-Bodenfarben</a> von Farbenfest24. Unsere Farben sind langlebig und widerstandsfähig, um Ihren Boden vor Abnutzung und Verschleiß zu schützen. Stöbern Sie in unserer Kategorie Garagen-Bodenfarben und finden Sie die perfekte Lösung für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Spezial-Sprays",
-                        "text": "Farbenfest24 bietet eine große Auswahl an <a href=\"/kategorie/spezial-sprays/\" title=\"Spezial-Sprays\">Spezial-Sprays</a> für alle Ihre Bedürfnisse. Unsere Sprays sind einfach zu verwenden und liefern ein gleichmäßiges Ergebnis. Stöbern Sie in unserer Kategorie Spezial-Sprays und entdecken Sie die perfekte Lösung für Ihre Projekte."
-                    },
-                    {
-                        "title": "Latexfarben",
-                        "text": "Entdecken Sie bei Farbenfest24 eine große Auswahl an hochwertigen <a href=\"/kategorie/latexfarben/\" title=\"Latexfarben\">Latexfarben</a>. Als besonders umweltfreundliche Farbvariante eignen sie sich ideal für den Einsatz in Wohnräumen. Überzeugen Sie sich von der hohen Deckkraft und den brillanten Farben. Mit den passenden Vorstreichfarben und der Holzpflegeprodukte von Farbenfest24 erzielen Sie beste Ergebnisse für Ihre Projekte."
-                    },
-                    {
-                        "title": "Vorstreichfarben",
-                        "text": "Eine gute Vorbereitung ist das A und O bei jedem Malprojekt. Mit den hochwertigen <a href=\"/kategorie/vorstreichfarben/\" title=\"Vorstreichfarben\">Vorstreichfarben</a> von Farbenfest24 garantieren Sie eine optimale Grundierung für Ihre Farbaufträge. Wählen Sie aus einer breiten Palette an Farbtönen und finden Sie die passende Vorstreichfarbe für Ihre Bedürfnisse. Entdecken Sie jetzt die Vielfalt bei Farbenfest24."
-                    },
-                    {
-                        "title": "Holzpflege",
-                        "text": "Schützen und pflegen Sie Ihre Holzoberflächen mit den hochwertigen <a href=\"/kategorie/holzpflege/\" title=\"Holzpflege\">Holzpflege</a>produkten von Farbenfest24. Ob Terrassen, Gartenmöbel oder Holzfassaden, mit den passenden Produkten erhält Ihr Holz eine lange Lebensdauer. Überzeugen Sie sich von der einfachen Anwendung und dem hervorragenden Schutz vor Witterungseinflüssen. Entdecken Sie jetzt die Vielfalt bei Farbenfest24."
-                    },
-                    {
-                        "title": "Grundierfarben",
-                        "text": "Die <a href=\"/kategorie/grundierfarben/\" title=\"Grundierfarben\">Grundierfarben</a> bei Farbenfest24 bieten eine optimale Vorbereitung für Ihre Malerarbeiten. Unsere hochwertigen Grundierfarben sorgen für eine gleichmäßige Oberfläche und eine optimale Haftung der Endfarbe. Entdecken Sie jetzt unser vielfältiges Angebot an Grundierfarben für unterschiedliche Untergründe."
-                    },
-                    {
-                        "title": "Anti-Schimmelfarben",
-                        "text": "Schimmel ist ein häufiges Problem in Wohnräumen. Mit den <a href=\"/kategorie/anti-schimmelfarben/\" title=\"Anti-Schimmelfarben\">Anti-Schimmelfarben</a> von Farbenfest24 können Sie diesem Problem effektiv begegnen. Unsere Anti-Schimmelfarben sind speziell entwickelt, um Schimmelbildung zu verhindern und bereits bestehenden Schimmel effektiv zu bekämpfen. Entdecken Sie jetzt unser vielfältiges Angebot an Anti-Schimmelfarben."
-                    },
-                    {
-                        "title": "Heizkörperlacke",
-                        "text": "Heizkörper sind ein wichtiger Bestandteil jedes Zuhauses. Mit den <a href=\"/kategorie/heizkoerperlacke/\" title=\"Heizkörperlacke\">Heizkörperlacke</a>n von Farbenfest24 können Sie Ihre Heizkörper nicht nur schützen, sondern auch optisch aufwerten. Unsere Heizkörperlacke sind hochwertig und langlebig, so dass Sie lange Freude an Ihren neu gestalteten Heizkörpern haben werden. Entdecken Sie jetzt unser vielfältiges Angebot an Heizkörperlacken."
-                    },
-                    {
-                        "title": "Holzbodenbeschichtungen",
-                        "text": "Entdecken Sie unsere vielfältige Auswahl an <a href=\"/kategorie/holzbodenbeschichtungen/\" title=\"Holzbodenbeschichtungen\">Holzbodenbeschichtungen</a> für den Innen- und Außenbereich. Wir bieten Ihnen hochwertige Produkte, die Ihren Holzboden vor Abnutzung und Witterungseinflüssen schützen und ihm gleichzeitig eine attraktive Optik verleihen. Ob Sie Ihren Parkettboden renovieren oder einen neuen Holzboden verlegen möchten - bei uns finden Sie die passende Beschichtung für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Künstlerfarben",
-                        "text": "Für kreative Projekte und Kunstwerke bieten wir Ihnen eine breite Auswahl an <a href=\"/kategorie/kuenstlerfarben/\" title=\"Künstlerfarben\">Künstlerfarben</a> in verschiedenen Farbnuancen und Formen. Von Acrylfarben über Ölfarben bis hin zu Aquarellfarben - wir haben alles, was das Künstlerherz begehrt. Lassen Sie Ihrer Kreativität freien Lauf und kaufen Sie Ihre Künstlerfarben bequem online bei Farbenfest24."
-                    },
-                    {
-                        "title": "Acrylfarben",
-                        "text": "<a href=\"/kategorie/acrylfarben/\" title=\"Acrylfarben\">Acrylfarben</a> sind ein beliebtes Medium für Künstler und Bastler. Sie trocknen schnell und haben eine hohe Deckkraft. Unsere Acrylfarben sind in einer Vielzahl von Farbnuancen erhältlich und eignen sich für eine Vielzahl von Untergründen, einschließlich Leinwand, Papier und Holz. Entdecken Sie jetzt unser Angebot an hochwertigen Acrylfarben."
-                    },
-                    {
-                        "title": "Nikotinfarben",
-                        "text": "<a href=\"/kategorie/nikotinfarben/\" title=\"Nikotinfarben\">Nikotinfarben</a> sind eine großartige Wahl für alle, die ihre Wände und Möbel neu gestalten möchten. Diese Farben sind besonders geeignet für Räume, die regelmäßig geraucht werden, da sie den Nikotingeruch neutralisieren. Bei Farbenfest24.de finden Sie eine breite Auswahl an Nikotinfarben in verschiedenen Farbtönen und Qualitäten. Überzeugen Sie sich selbst von der hervorragenden Deckkraft und der einfachen Verarbeitbarkeit dieser Farben."
-                    },
-                    {
-                        "title": "Betonfarben",
-                        "text": "<a href=\"/kategorie/betonfarben/\" title=\"Betonfarben\">Betonfarben</a> sind eine moderne und stilvolle Wahl für alle, die ihren Boden oder ihre Wand neu gestalten möchten. Diese Farben können verwendet werden, um eine attraktive Textur und einen industrialen Look zu schaffen. Bei Farbenfest24.de finden Sie eine große Auswahl an Betonfarben in verschiedenen Farbtönen und Qualitäten. Überzeugen Sie sich selbst von der einfachen Verarbeitbarkeit und der hervorragenden Haltbarkeit dieser Farben."
-                    },
-                    {
-                        "title": "Rostschutzgrund",
-                        "text": "<a href=\"/kategorie/rostschutzgrund/\" title=\"Rostschutzgrund\">Rostschutzgrund</a> ist ein unverzichtbares Produkt für alle, die ihre Metallobjekte vor Rost schützen möchten. Dieser Grund verhindert, dass Feuchtigkeit und Luft in den Untergrund eindringen, wodurch Rostbildung vermieden wird. Bei Farbenfest24.de finden Sie eine breite Auswahl an Rostschutzgrund in verschiedenen Qualitäten. Überzeugen Sie sich selbst von der einfachen Verarbeitbarkeit und der hervorragenden Schutzwirkung dieses Produkts."
-                    },
-                    {
-                        "title": "Bauchemie",
-                        "text": "<a href=\"/kategorie/bauchemie/\" title=\"Bauchemie\">Bauchemie</a> ist ein wichtiger Bestandteil jedes Bauprojekts. Bei Farbenfest24 finden Sie eine breite Auswahl an hochwertigen Bauchemieprodukten, die Ihnen dabei helfen, Ihre Bauprojekte erfolgreich umzusetzen. Von Grundierungen und Dichtstoffen bis hin zu Reinigungsprodukten - wir haben alles, was Sie brauchen. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute Ihre Bauchemieprodukte bei Farbenfest24."
-                    },
-                    {
-                        "title": "Isolierfarben",
-                        "text": "<a href=\"/kategorie/isolierfarben/\" title=\"Isolierfarben\">Isolierfarben</a> sind ein wichtiger Bestandteil jedes energiesparenden Bauprojekts. Sie tragen dazu bei, Energie zu sparen und Ihr Zuhause komfortabler zu gestalten. Bei Farbenfest24 finden Sie eine große Auswahl an Isolierfarben in verschiedenen Farben und Qualitäten. Ob Sie eine neue Wandfarbe für Ihr Zuhause benötigen oder eine neue Farbe für Ihr Büro - wir haben das Richtige für Sie. Bestellen Sie noch heute Ihre Isolierfarben bei Farbenfest24."
-                    },
-                    {
-                        "title": "Magnetfarben",
-                        "text": "<a href=\"/kategorie/magnetfarben/\" title=\"Magnetfarben\">Magnetfarben</a> sind eine besondere Art von Farben, die eine magnetische Wirkung haben. Sie können verwendet werden, um magnetische Oberflächen zu schaffen, auf denen Sie Dinge wie Notizen und Fotos aufhängen können. Bei Farbenfest24 finden Sie eine große Auswahl an Magnetfarben in verschiedenen Farben und Qualitäten. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute Ihre Magnetfarben bei Farbenfest24."
-                    },
-                    {
-                        "title": "Tafelfarben",
-                        "text": "Entdecken Sie die Welt der <a href=\"/kategorie/tafelfarben/\" title=\"Tafelfarben\">Tafelfarben</a> bei Farbenfest24.de. Ob für Schulen, Büros oder zu Hause, wir bieten eine große Auswahl an hochwertigen Tafelfarben, die langlebig und leicht zu reinigen sind. Alle Tafelfarben sind in verschiedenen Farben und Größen erhältlich, um Ihren Anforderungen gerecht zu werden. Überzeugen Sie sich selbst von unseren Produkten und bestellen Sie noch heute bei Farbenfest24.de."
-                    },
-                    {
-                        "title": "Rostschutzfarben",
-                        "text": "Schützen Sie Ihr Eigentum vor Rost und Korrosion mit den <a href=\"/kategorie/rostschutzfarben/\" title=\"Rostschutzfarben\">Rostschutzfarben</a> von Farbenfest24.de. Unsere Rostschutzfarben sind ideal für den Einsatz im Außenbereich und sorgen für eine lange Lebensdauer Ihrer Gegenstände. Wir bieten eine breite Palette an Farben, um Ihren Anforderungen gerecht zu werden. Bestellen Sie noch heute und schützen Sie Ihr Eigentum bei Farbenfest24.de."
-                    },
-                    {
-                        "title": "Aquarellfarben",
-                        "text": "Erwecken Sie Ihre Kreativität mit den <a href=\"/kategorie/aquarellfarben/\" title=\"Aquarellfarben\">Aquarellfarben</a> von Farbenfest24.de. Unsere Aquarellfarben sind von hoher Qualität und eignen sich hervorragend für Anfänger und Profis. Wir bieten eine breite Palette an Farben, um Ihren Anforderungen gerecht zu werden. Entdecken Sie jetzt die Welt der Aquarellfarben bei Farbenfest24.de."
-                    },
-                    {
-                        "title": "Ölfarben",
-                        "text": "<a href=\"/kategorie/oelfarben/\" title=\"Ölfarben\">Ölfarben</a> sind eine hervorragende Wahl für Maler, die ein langes Trocknungszeitbedürfnis haben. In unserem Online-Shop Farbenfest24.de finden Sie eine große Auswahl an Ölfarben in verschiedenen Farbtönen und Finishes. Unsere Ölfarben sind hochwertig und langlebig, perfekt für professionelle Projekte oder auch für den Heimgebrauch. Entdecken Sie jetzt unsere Auswahl an Ölfarben und finden Sie die Farbe, die Ihren kreativen Visionen entspricht."
-                    },
-                    {
-                        "title": "Sprühfarben",
-                        "text": "<a href=\"/kategorie/spruehfarben/\" title=\"Sprühfarben\">Sprühfarben</a> sind eine schnelle und einfache Möglichkeit, Objekte zu beschichten und zu dekorieren. In unserem Online-Shop Farbenfest24.de finden Sie eine große Auswahl an Sprühfarben für unterschiedliche Anwendungen. Ob Sie ein Möbelstück auffrischen, eine Wand gestalten oder ein Kunstwerk erschaffen möchten - unsere Sprühfarben bieten Ihnen eine einfache Lösung mit professionellem Finish. Entdecken Sie jetzt unsere Auswahl an Sprühfarben."
-                    },
-                    {
-                        "title": "Textilfarben",
-                        "text": "<a href=\"/kategorie/textilfarben/\" title=\"Textilfarben\">Textilfarben</a> ermöglichen es Ihnen, Ihre Kleidung und Heimtextilien individuell zu gestalten. In unserem Online-Shop Farbenfest24.de finden Sie eine große Auswahl an Textilfarben in verschiedenen Farbtönen und Finishes. Unsere Textilfarben sind langlebig und waschmaschinenfest, perfekt für den Einsatz auf Kleidung, Taschen, Vorhängen und vielem mehr. Entdecken Sie jetzt unsere Auswahl an Textilfarben und lassen Sie Ihrer Kreativität freien Lauf."
-                    },
-                    {
-                        "title": "Bootslacke",
-                        "text": "Entdecken Sie in unserer Kategorie <a href=\"/kategorie/bootslacke/\" title=\"Bootslacke\">Bootslacke</a> eine breite Auswahl an hochwertigen Lacke für Ihr Boot. Unsere Bootslacke bieten eine lange Haltbarkeit und beste Schutzwirkung für Ihr Boot. Ob für den Innen- oder Außenbereich, wir haben die passende Bootslack für jeden Bedarf. Überzeugen Sie sich selbst von der Qualität unserer Bootslacke und bestellen Sie noch heute bei Farbenfest24.de."
-                    },
-                    {
-                        "title": "Effektmittel",
-                        "text": "Mit den <a href=\"/kategorie/effektmittel/\" title=\"Effektmittel\">Effektmittel</a>n aus unserem Online-Shop Farbenfest24.de können Sie Ihren Projekten das gewisse Extra verleihen. Ob Metallic-Effekte, Glitzereffekte oder andere besondere Oberflächen, mit unseren hochwertigen Effektmitteln wird jedes Projekt zum Hingucker. Entdecken Sie die Vielfalt unserer Effektmittel und lassen Sie Ihrer Kreativität freien Lauf. Bestellen Sie noch heute bei Farbenfest24.de."
-                    },
-                    {
-                        "title": "Weißlack-Sprays",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/weisslack-sprays/\" title=\"Weisslack-Sprays\">Weisslack-Sprays</a> finden Sie eine große Auswahl an hochwertigen Weißlack-Sprays für unterschiedliche Anwendungsbereiche. Ob für Möbel, Heimwerkerprojekte oder andere Gegenstände, unsere Weißlack-Sprays bieten eine einfache und schnelle Anwendung, sowie eine lange Haltbarkeit. Überzeugen Sie sich selbst von der Qualität unserer Weißlack-Sprays und bestellen Sie noch heute bei Farbenfest24.de."
-                    },
-                    {
-                        "title": "Effektfarben",
-                        "text": "Entdecken Sie die vielfältigen <a href=\"/kategorie/effektfarben/\" title=\"Effektfarben\">Effektfarben</a> bei Farbenfest24. Hier finden Sie eine große Auswahl an Farben mit besonderen Effekten wie Glanz, Metallic, Struktur und vielem mehr. Verleihen Sie Ihren Projekten das gewisse Extra mit den ansprechenden Effektfarben. Überzeugen Sie sich selbst von der hohen Qualität und den einzigartigen Möglichkeiten, die Ihnen die Effektfarben bieten."
-                    },
-                    {
-                        "title": "Holzwurmfrei",
-                        "text": "Schützen Sie Ihre Holzgegenstände vor Holzwürmern mit den <a href=\"/kategorie/holzwurmfrei/\" title=\"Holzwurmfrei\">Holzwurmfrei</a>-Produkten von Farbenfest24. Hier finden Sie eine breite Auswahl an hochwirksamen Mitteln, die effektiv gegen Holzwürmer vorgehen und Ihre Möbel, Türen und andere Holzgegenstände schützen. Überzeugen Sie sich selbst von der hohen Qualität und der einfachen Anwendung unserer Holzwurmfrei-Produkte."
-                    },
-                    {
-                        "title": "Farbmischservice",
-                        "text": "Mit dem <a href=\"/kategorie/farbmischservice/\" title=\"Farbmischservice\">Farbmischservice</a> von Farbenfest24 können Sie ganz einfach die Farbe erhalten, die Sie für Ihr Projekt benötigen. Wählen Sie aus einer großen Auswahl an Farbtönen und lassen Sie uns die Farbe genau nach Ihren Wünschen mischen. Überzeugen Sie sich selbst von der hohen Qualität unseres Farbmischservices und der perfekten Farbabstimmung, die wir für Sie erreichen."
-                    },
-                    {
-                        "title": "Farbtonfächer",
-                        "text": "<a href=\"/kategorie/farbtonfaecher/\" title=\"Farbtonfächer\">Farbtonfächer</a> sind ein unverzichtbares Werkzeug für jeden Maler oder Lackierer. In unserem Online-Shop finden Sie eine große Auswahl an Farbtonfächern für jeden Bedarf. Egal, ob Sie einen Farbton für Ihre Wand oder Ihr Möbelstück finden möchten, wir haben die passende Lösung für Sie. Alle Farbtonfächer sind von hoher Qualität und bieten eine präzise Darstellung der Farbtöne. Überzeugen Sie sich selbst von unserer großen Auswahl und bestellen Sie noch heute Ihren Farbtonfächer!"
-                    },
-                    {
-                        "title": "Holzreiniger",
-                        "text": "<a href=\"/kategorie/holzreiniger/\" title=\"Holzreiniger\">Holzreiniger</a> sind ein wichtiger Bestandteil für die Pflege und Reinigung von Holzoberflächen. In unserem Online-Shop finden Sie eine große Auswahl an Holzreinigern für alle Arten von Holz. Ob für Möbel, Bodenbeläge oder Holzdecken, wir haben die passende Lösung für Sie. Alle Holzreiniger in unserem Sortiment sind sorgfältig ausgewählt und bieten eine effektive Reinigung Ihrer Holzoberflächen. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute Ihren Holzreiniger!"
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Der Shop für Farben & Lacke",
-            "metaDescription": "Finde eine unschlagbare Auswahl unterschiedlicher Farben & Lacke. Unser Online Shop lässt keine Wünsche offen, um das nächste DIY-Projekt kreativ zu meistern!",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Farben & Lacke - die besten Markenanbieter bei uns!",
-            "metaDescription": "Überzeuge Dich selbst von unserer riesigen Auswahl bekannter Markenprodukte wie Alpina, Bondex, Edding, Knauf uvm. Wir garantieren Qualität und Langlebigkeit!",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT - Die perfekte Wahl für dein Projekt",
-        "defaultMetaDescription": "$PRODUKT vom Hersteller $HERSTELLER - Farben & Lacke für jeden Anlass.  Finde noch viele weitere passende Produkte in der Kategorie $KATEGORIE.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "farbenfest24.de",
+  "hostname": "https://www.farbenfest24.de/",
+  "email": "farbenfest24.de@surrealnetworks.io",
+  "organization": "farbenfest24.de",
+  "logoText": "Farbenfest24.de",
+  "title": "Farben & Lacke",
+  "subline": "Farben und Lacke g\u00fcnstig online bestellen",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "1876739",
+    "6049050",
+    "2691996",
+    "1764992",
+    "4306932",
+    "4740973"
+  ],
+  "winnerProducts": [
+    "6042493",
+    "5377320",
+    "1092253"
+  ],
+  "featuredCategories": [
+    "Latexfarben",
+    "Wei\u00dflack-Sprays",
+    "Wetterschutzfarben",
+    "Kreativfarben",
+    "Au\u00dfen-Fassadenfarben",
+    "Buntlack-Sprays"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Farben & Lacke",
+    "featureText": "Herzlich Willkommen in unserem Online-Shop! Hier findest du alles rund um das Thema Farben und Lacke: ob f\u00fcr Tapeten, Gartenm\u00f6bel, Autos, Fliesen, Heizk\u00f6rper, Textilien oder auch f\u00fcr Malbl\u00f6cke und Leinw\u00e4nde. \u00dcberzeuge dich selbst von unserem umfassenden Sortiment, das keine W\u00fcnsche offen l\u00e4sst und finde noch viele weitere Produkte in unserem Shop. Auf dich warten tolle Markenprodukte zu fairen Preisen! Bestelle einfach und \u00fcberzeuge dich selbst!",
+    "index": {
+      "title": "Farben & Lacke - Alles f\u00fcr deine kreativen Projekte!",
+      "metaDescription": "Kreativfarben | Spr\u00fchlacke | Speziallacke | Grundierung | Schutzfarben | Wandfarben | Fassadenfarben uvm. Einfach und bequem online bestellen!",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei Farbenfest24",
+            "text": "Herzlich willkommen auf Farbenfest24, Ihrem Online-Shop f\u00fcr hochwertige Farben und Lacke. Wir bieten Ihnen eine gro\u00dfe Auswahl an Produkten f\u00fcr jedes Projekt und jeden Bedarf. Von Spr\u00fchlacken \u00fcber Klarlack-Sprays bis hin zu Grundierungen und Haftgrund, bei uns finden Sie alles, was Sie f\u00fcr ein perfektes Finish ben\u00f6tigen. Unsere Lasuren und Holzfarben sorgen f\u00fcr eine lange Lebensdauer Ihrer M\u00f6bel und Geb\u00e4ude, w\u00e4hrend unsere Wetterschutzfarben Sie vor den Elementen sch\u00fctzen. Wir bieten auch Lacke und Holzgrundierungen f\u00fcr jeden Bedarf und Geschmack. St\u00f6bern Sie in unseren Kategorien und entdecken Sie unser vielf\u00e4ltiges Angebot an Farben und Lacke. Wir freuen uns darauf, Sie auf Ihrer Farbenreise zu begleiten!"
+          },
+          {
+            "title": "Spr\u00fchlacke",
+            "text": "Entdecken Sie bei Farbenfest24 eine breite Auswahl an hochwertigen <a href=\"/kategorie/spruehlacke/\" title=\"Spr\u00fchlacke\">Spr\u00fchlacke</a>n f\u00fcr alle Ihre Projekte. Von Autolacken bis hin zu M\u00f6beln und Heimwerkerprojekten, wir haben die richtige Spr\u00fchlackl\u00f6sung f\u00fcr Sie. Unsere Spr\u00fchlacke sind einfach aufzutragen, schnell trocknend und bieten ein gleichm\u00e4\u00dfiges Finish. W\u00e4hlen Sie aus einer Vielzahl von Farben und Finishes, um das perfekte Ergebnis zu erzielen. \u00dcberzeugen Sie sich selbst von der Qualit\u00e4t unserer Spr\u00fchlacke und bestellen Sie noch heute!"
+          },
+          {
+            "title": "Klarlack-Sprays",
+            "text": "Sch\u00fctzen Sie Ihre Projekte mit unseren hochwertigen <a href=\"/kategorie/klarlack-sprays/\" title=\"Klarlack-Sprays\">Klarlack-Sprays</a>. Unsere Klarlacke bieten eine lange Haltbarkeit und Schutz vor Kratzern und UV-Strahlen. W\u00e4hlen Sie aus einer Vielzahl von Klarlack-Optionen, einschlie\u00dflich spr\u00fchf\u00e4higer und l\u00f6sungsmittelhaltiger Klarlacke, um das perfekte Finish f\u00fcr Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
+          },
+          {
+            "title": "Grundierung",
+            "text": "Geben Sie Ihren Projekten eine solide Basis mit unseren hochwertigen <a href=\"/kategorie/grundierung/\" title=\"Grundierung\">Grundierung</a>en. Unsere Grundierungen bereiten das Material f\u00fcr die Anwendung von Farben oder Lacke vor und verbessern die Haftung und Abdeckung. W\u00e4hlen Sie aus einer Vielzahl von Grundierungsl\u00f6sungen, einschlie\u00dflich spr\u00fchf\u00e4higer und l\u00f6sungsmittelhaltiger Optionen, um das beste Ergebnis f\u00fcr Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
+          },
+          {
+            "title": "Haftgrund",
+            "text": "Verbessern Sie die Haftung Ihrer Projekte mit unseren hochwertigen <a href=\"/kategorie/haftgrund/\" title=\"Haftgrund\">Haftgrund</a>l\u00f6sungen. Unsere Haftgrunde sorgen f\u00fcr eine bessere Haftung von Farben und Lacke auf verschiedenen Oberfl\u00e4chen. W\u00e4hlen Sie aus einer Vielzahl von Haftgrundoptionen, einschlie\u00dflich spr\u00fchf\u00e4higer und l\u00f6sungsmittelhaltiger L\u00f6sungen, um das beste Ergebnis f\u00fcr Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
+          },
+          {
+            "title": "Isoliergrund & Sperrgrund",
+            "text": "Sch\u00fctzen Sie Ihre Projekte mit unseren hochwertigen Isolier- und Sperrgrundl\u00f6sungen. Unsere Isolier- und Sperrgrunde sorgen f\u00fcr eine barrierefreie Oberfl\u00e4che, die Farben und Lacke gleichm\u00e4\u00dfiger aufnimmt. W\u00e4hlen Sie aus einer Vielzahl von Isolier- und Sperrgrundoptionen, einschlie\u00dflich spr\u00fchf\u00e4higer und l\u00f6sungsmittelhaltiger L\u00f6sungen, um das beste Ergebnis f\u00fcr Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
+          },
+          {
+            "title": "Lasuren & Holzfarben",
+            "text": "Sch\u00fctzen Sie Ihre Holzprojekte mit unseren hochwertigen Lasuren und Holzfarben. Unsere Lasuren und Holzfarben sorgen f\u00fcr eine lange Lebensdauer Ihrer M\u00f6bel und Geb\u00e4ude, indem sie vor Feuchtigkeit und UV-Strahlen sch\u00fctzen. W\u00e4hlen Sie aus einer Vielzahl von Lasuren- und Holzfarboptionen, einschlie\u00dflich spr\u00fchf\u00e4higer und l\u00f6sungsmittelhaltiger L\u00f6sungen, um das beste Ergebnis f\u00fcr Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
+          },
+          {
+            "title": "Wetterschutzfarben",
+            "text": "Sch\u00fctzen Sie Ihre Geb\u00e4ude und M\u00f6bel mit unseren hochwertigen <a href=\"/kategorie/wetterschutzfarben/\" title=\"Wetterschutzfarben\">Wetterschutzfarben</a>. Unsere Wetterschutzfarben bieten langanhaltenden Schutz vor Regen, Schnee und UV-Strahlen. W\u00e4hlen Sie aus einer Vielzahl von Wetterschutzfarboptionen, einschlie\u00dflich spr\u00fchf\u00e4higer und l\u00f6sungsmittelhaltiger L\u00f6sungen, um das beste Ergebnis f\u00fcr Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
+          },
+          {
+            "title": "Lacke",
+            "text": "Verleihen Sie Ihren Projekten ein gl\u00e4nzendes Finish mit unseren hochwertigen <a href=\"/kategorie/lacke/\" title=\"Lacke\">Lacke</a>. Unsere Lacke bieten eine gleichm\u00e4\u00dfige Abdeckung und eine lange Haltbarkeit. W\u00e4hlen Sie aus einer Vielzahl von Lackoptionen, einschlie\u00dflich spr\u00fchf\u00e4higer und l\u00f6sungsmittelhaltiger L\u00f6sungen, um das beste Ergebnis f\u00fcr Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
+          },
+          {
+            "title": "Buntlacke",
+            "text": "Verleihen Sie Ihren Projekten Farbe mit unseren hochwertigen <a href=\"/kategorie/buntlacke/\" title=\"Buntlacke\">Buntlacke</a>n. Unsere Buntlacke bieten eine gleichm\u00e4\u00dfige Abdeckung und eine lange Haltbarkeit in einer Vielzahl von Farben. W\u00e4hlen Sie aus einer Vielzahl von Buntlackoptionen, einschlie\u00dflich spr\u00fchf\u00e4higer und l\u00f6sungsmittelhaltiger L\u00f6sungen, um das beste Ergebnis f\u00fcr Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
+          },
+          {
+            "title": "Holzgrundierungen",
+            "text": "Verleihen Sie Ihren Holzprojekten eine solide Basis mit unseren hochwertigen <a href=\"/kategorie/holzgrundierungen/\" title=\"Holzgrundierungen\">Holzgrundierungen</a>. Unsere Holzgrundierungen bereiten das Holz f\u00fcr die Anwendung von Farben oder Lacke vor und verbessern die Haftung und Abdeckung. W\u00e4hlen Sie aus einer Vielzahl von Holzgrundierungsl\u00f6sungen, einschlie\u00dflich spr\u00fchf\u00e4higer und l\u00f6sungsmittelhaltiger Optionen, um das beste Ergebnis f\u00fcr Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
+          },
+          {
+            "title": "Innenfarben",
+            "text": "Verleihen Sie Ihren Innenr\u00e4umen Farbe mit unseren hochwertigen <a href=\"/kategorie/innenfarben/\" title=\"Innenfarben\">Innenfarben</a>. Unsere Innenfarben bieten eine gleichm\u00e4\u00dfige Abdeckung und eine lange Haltbarkeit. W\u00e4hlen Sie aus einer Vielzahl von Innenfarboptionen, einschlie\u00dflich spr\u00fchf\u00e4higer und l\u00f6sungsmittelhaltiger L\u00f6sungen, um das beste Ergebnis f\u00fcr Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
+          },
+          {
+            "title": "Bunte Wandfarben",
+            "text": "Verleihen Sie Ihren W\u00e4nden Farbe mit unseren hochwertigen bunten Wandfarben. Unsere bunten Wandfarben bieten eine gleichm\u00e4\u00dfige Abdeckung und eine lange Haltbarkeit in einer Vielzahl von Farben. W\u00e4hlen Sie aus einer Vielzahl von bunten Wandfarboptionen, einschlie\u00dflich spr\u00fchf\u00e4higer und l\u00f6sungsmittelhaltiger L\u00f6sungen, um das beste Ergebnis f\u00fcr Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
+          },
+          {
+            "title": "Klarlacke",
+            "text": "Verleihen Sie Ihren Projekten einen klaren, gl\u00e4nzenden Finish mit unseren hochwertigen <a href=\"/kategorie/klarlacke/\" title=\"Klarlacke\">Klarlacke</a>n. Unsere Klarlacke bieten eine gleichm\u00e4\u00dfige Abdeckung und eine lange Haltbarkeit. W\u00e4hlen Sie aus einer Vielzahl von Klarlackoptionen, einschlie\u00dflich spr\u00fchf\u00e4higer und l\u00f6sungsmittelhaltiger L\u00f6sungen, um das beste Ergebnis f\u00fcr Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
+          },
+          {
+            "title": "Holz-\u00d6le",
+            "text": "Sch\u00fctzen und pflegen Sie Ihre Holzprojekte mit unseren hochwertigen <a href=\"/kategorie/holz-oele/\" title=\"Holz-\u00d6le\">Holz-\u00d6le</a>n. Unsere Holz-\u00d6le bieten langanhaltenden Schutz und eine gl\u00e4nzende Oberfl\u00e4che. W\u00e4hlen Sie aus einer Vielzahl von Holz-\u00d6loptionen, einschlie\u00dflich l\u00f6sungsmittelhaltiger und wasserbasierter L\u00f6sungen, um das beste Ergebnis f\u00fcr Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
+          },
+          {
+            "title": "Au\u00dfen-Fassadenfarben",
+            "text": "Sch\u00fctzen Sie Ihre Au\u00dfenw\u00e4nde und -fassaden mit unseren hochwertigen <a href=\"/kategorie/aussen-fassadenfarben/\" title=\"Aussen-Fassadenfarben\">Aussen-Fassadenfarben</a>. Unsere Au\u00dfen-Fassadenfarben bieten langanhaltenden Schutz vor Wetterbedingungen und UV-Strahlen. W\u00e4hlen Sie aus einer Vielzahl von Au\u00dfen-Fassadenfarboptionen, einschlie\u00dflich spr\u00fchf\u00e4higer und l\u00f6sungsmittelhaltiger L\u00f6sungen, um das beste Ergebnis f\u00fcr Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
+          },
+          {
+            "title": "Sockelfarben",
+            "text": "Sch\u00fctzen Sie Ihre Sockelleisten und Wandbereiche mit unseren hochwertigen <a href=\"/kategorie/sockelfarben/\" title=\"Sockelfarben\">Sockelfarben</a>. Unsere Sockelfarben bieten eine gleichm\u00e4\u00dfige Abdeckung und eine lange Haltbarkeit. W\u00e4hlen Sie aus einer Vielzahl von Sockelfarboptionen, einschlie\u00dflich spr\u00fchf\u00e4higer und l\u00f6sungsmittelhaltiger L\u00f6sungen, um das beste Ergebnis f\u00fcr Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
+          },
+          {
+            "title": "Wei\u00dfe Wandfarben",
+            "text": "Verleihen Sie Ihren W\u00e4nden eine frische, saubere Optik mit unseren hochwertigen wei\u00dfen Wandfarben. Unsere wei\u00dfen Wandfarben bieten eine gleichm\u00e4\u00dfige Abdeckung und eine lange Haltbarkeit. W\u00e4hlen Sie aus einer Vielzahl von wei\u00dfen Wandfarboptionen, einschlie\u00dflich spr\u00fchf\u00e4higer und l\u00f6sungsmittelhaltiger L\u00f6sungen, um das beste Ergebnis f\u00fcr Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
+          },
+          {
+            "title": "Holzlasuren",
+            "text": "Sch\u00fctzen und verleihen Sie Ihren Holzprojekten einen ansprechenden Look mit unseren hochwertigen <a href=\"/kategorie/holzlasuren/\" title=\"Holzlasuren\">Holzlasuren</a>. Unsere Holzlasuren bieten eine gleichm\u00e4\u00dfige Abdeckung und eine lange Haltbarkeit. W\u00e4hlen Sie aus einer Vielzahl von Holzlasuroptionen, einschlie\u00dflich spr\u00fchf\u00e4higer und l\u00f6sungsmittelhaltiger L\u00f6sungen, um das beste Ergebnis f\u00fcr Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
+          },
+          {
+            "title": "Kreativfarben",
+            "text": "Lassen Sie Ihrer Kreativit\u00e4t freien Lauf mit unseren hochwertigen <a href=\"/kategorie/kreativfarben/\" title=\"Kreativfarben\">Kreativfarben</a>. Unsere Kreativfarben eignen sich hervorragend f\u00fcr alle Arten von k\u00fcnstlerischen Projekten, einschlie\u00dflich Malerei, Zeichnung und Papierarbeiten. W\u00e4hlen Sie aus einer Vielzahl von Farboptionen, einschlie\u00dflich Acryl- und \u00d6lfarben, um das beste Ergebnis f\u00fcr Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
+          },
+          {
+            "title": "Kreidefarben",
+            "text": "Verleihen Sie Ihren Projekten einen besonderen Vintage-Look mit unseren hochwertigen <a href=\"/kategorie/kreidefarben/\" title=\"Kreidefarben\">Kreidefarben</a>. Unsere Kreidefarben eignen sich hervorragend f\u00fcr M\u00f6bel, W\u00e4nde und andere DIY-Projekte. W\u00e4hlen Sie aus einer Vielzahl von Farboptionen, einschlie\u00dflich Schattierungen von Wei\u00df und Pastellt\u00f6nen, um das beste Ergebnis f\u00fcr Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
+          },
+          {
+            "title": "Naturfarben",
+            "text": "Schaffen Sie eine gesunde und nat\u00fcrliche Umgebung in Ihrem Zuhause mit unseren hochwertigen <a href=\"/kategorie/naturfarben/\" title=\"Naturfarben\">Naturfarben</a>. Unsere Naturfarben sind frei von sch\u00e4dlichen Chemikalien und bestehen aus nat\u00fcrlichen Rohstoffen wie Lehm, Kalk und Pigmenten. W\u00e4hlen Sie aus einer Vielzahl von Farboptionen, einschlie\u00dflich Wei\u00df- und Beiget\u00f6nen, um das beste Ergebnis f\u00fcr Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
+          },
+          {
+            "title": "Silikatfarben",
+            "text": "Sch\u00fctzen Sie Ihre Wand- und Fassadenfl\u00e4chen vor Feuchtigkeit und Schimmel mit unseren hochwertigen <a href=\"/kategorie/silikatfarben/\" title=\"Silikatfarben\">Silikatfarben</a>. Unsere Silikatfarben sind atmungsaktiv und bestehen aus nat\u00fcrlichen Rohstoffen wie Quarzsand, Kalk und Pigmenten. W\u00e4hlen Sie aus einer Vielzahl von Farboptionen, einschlie\u00dflich Wei\u00df- und Beiget\u00f6nen, um das beste Ergebnis f\u00fcr Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
+          },
+          {
+            "title": "Tiefengrund",
+            "text": "Erzielen Sie eine gleichm\u00e4\u00dfige Oberfl\u00e4chenbeschichtung und eine optimale Haftung mit unseren hochwertigen <a href=\"/kategorie/tiefengrund/\" title=\"Tiefengrund\">Tiefengrund</a>ierungen. Unsere Tiefengrundierungen eignen sich hervorragend f\u00fcr die Vorbereitung von Oberfl\u00e4chen vor dem Streichen oder Verputzen. W\u00e4hlen Sie aus einer Vielzahl von Grundierungsoptionen, einschlie\u00dflich Haftgrund und Isoliergrund, um das beste Ergebnis f\u00fcr Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
+          },
+          {
+            "title": "Fassadenfarben",
+            "text": "Sch\u00fctzen Sie Ihre Au\u00dfenw\u00e4nde vor Wetterbedingungen und beleben Sie Ihr Zuhause mit unseren hochwertigen <a href=\"/kategorie/fassadenfarben/\" title=\"Fassadenfarben\">Fassadenfarben</a>. Unsere Fassadenfarben sind langlebig und best\u00e4ndig gegen Feuchtigkeit, Schimmel und UV-Strahlen. W\u00e4hlen Sie aus einer Vielzahl von Farboptionen, einschlie\u00dflich Wetterschutzfarben und Buntlacke, um das beste Ergebnis f\u00fcr Ihr Projekt zu erzielen. Bestellen Sie noch heute bei Farbenfest24!"
+          },
+          {
+            "title": "Fassadengrund",
+            "text": "Entdecken Sie bei Farbenfest24 eine gro\u00dfe Auswahl an Fassadengr\u00fcnden f\u00fcr den perfekten Schutz Ihrer Au\u00dfenw\u00e4nde. Unsere Fassadengr\u00fcnde sorgen f\u00fcr eine optimale Haftung der sp\u00e4teren Farb- und Anstrichelagen. St\u00f6bern Sie jetzt durch unser Sortiment und finden Sie das passende Produkt f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Wei\u00dflacke",
+            "text": "Mit den hochwertigen <a href=\"/kategorie/weisslacke/\" title=\"Weisslacke\">Weisslacke</a>n von Farbenfest24 k\u00f6nnen Sie jeden Raum in Ihrem Zuhause in ein echtes Highlight verwandeln. Unsere Wei\u00dflacke bieten eine hohe Deckkraft und eine gleichm\u00e4\u00dfige Oberfl\u00e4chenbeschichtung. Entdecken Sie jetzt unsere Auswahl an Wei\u00dflacken und verleihen Sie Ihren R\u00e4umen eine frische Optik."
+          },
+          {
+            "title": "Grundier-Sprays",
+            "text": "Bei Farbenfest24 finden Sie eine breite Auswahl an <a href=\"/kategorie/grundier-sprays/\" title=\"Grundier-Sprays\">Grundier-Sprays</a> f\u00fcr eine einfache und schnelle Anwendung. Unsere Grundier-Sprays sorgen f\u00fcr eine optimale Haftung der sp\u00e4teren Farb- und Anstrichelagen. Entdecken Sie jetzt unser Sortiment und finden Sie das passende Grundier-Spray f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Spezialfarben f\u00fcr jedes Projekt",
+            "text": "In unserer Kategorie Spezialfarben finden Sie eine breite Auswahl an Farben f\u00fcr besondere Anforderungen und Projekte. Ob f\u00fcr den Einsatz im Au\u00dfenbereich, f\u00fcr den Einsatz in Feuchtr\u00e4umen oder f\u00fcr besondere Effekte, wir bieten Ihnen die passende Farbe f\u00fcr Ihr Projekt. Durchst\u00f6bern Sie jetzt unsere Auswahl an hochwertigen Spezialfarben und finden Sie die perfekte Farbe f\u00fcr Ihr Vorhaben."
+          },
+          {
+            "title": "Badfarben f\u00fcr ein angenehmes Badeerlebnis",
+            "text": "Mit den richtigen Farben k\u00f6nnen Sie Ihr Badezimmer in eine Wohlf\u00fchloase verwandeln. In unserer Kategorie Badfarben bieten wir Ihnen eine breite Auswahl an Farben f\u00fcr den Einsatz im Badezimmer. Von klassischen Wei\u00dft\u00f6nen bis hin zu ausgefallenen Farbkombinationen finden Sie bei uns die passende Farbe f\u00fcr Ihr Badezimmer. \u00dcberzeugen Sie sich selbst von unserem Sortiment an hochwertigen Badfarben."
+          },
+          {
+            "title": "Effektputze f\u00fcr besondere Oberfl\u00e4chen",
+            "text": "Mit Effektputzen k\u00f6nnen Sie Ihren W\u00e4nden eine ganz besondere Optik verleihen. Ob f\u00fcr den Einsatz im Wohnbereich, im Badezimmer oder im Au\u00dfenbereich, Effektputze bieten unendliche Gestaltungsm\u00f6glichkeiten. In unserer Kategorie Effektputze finden Sie eine breite Auswahl an hochwertigen Putzen f\u00fcr den Einsatz an Ihren W\u00e4nden. Entdecken Sie jetzt die vielf\u00e4ltigen M\u00f6glichkeiten mit Effektputzen."
+          },
+          {
+            "title": "Buntlack-Sprays",
+            "text": "<a href=\"/kategorie/buntlack-sprays/\" title=\"Buntlack-Sprays\">Buntlack-Sprays</a> sind eine gro\u00dfartige Wahl f\u00fcr jeden, der eine schnelle und einfache M\u00f6glichkeit sucht, seine Gegenst\u00e4nde zu lackieren. Diese Sprays erm\u00f6glichen es, eine gleichm\u00e4\u00dfige und farbintensive Oberfl\u00e4che zu erzielen, ohne dass man viel Zeit oder F\u00e4higkeiten ben\u00f6tigt. Farbenfest24 bietet eine breite Palette an Buntlack-Sprays in verschiedenen Farben und Finishes, von gl\u00e4nzend bis matts, um Ihre Projekte zum Leben zu erwecken. Besuchen Sie jetzt unseren Online-Shop und entdecken Sie die Vorteile der Buntlack-Sprays."
+          },
+          {
+            "title": "Abt\u00f6nfarben",
+            "text": "<a href=\"/kategorie/abtoenfarben/\" title=\"Abt\u00f6nfarben\">Abt\u00f6nfarben</a> sind ein unverzichtbares Werkzeug f\u00fcr jeden, der an DIY-Projekten arbeitet. Diese Farben erm\u00f6glichen es Ihnen, Ihre M\u00f6bel oder Gegenst\u00e4nde einfach und schnell in eine neue Farbe zu bringen, ohne dass Sie die urspr\u00fcngliche Farbe entfernen m\u00fcssen. Farbenfest24 bietet eine breite Palette an Abt\u00f6nfarben in verschiedenen Farben und Finishes, damit Sie Ihre Projekte nach Ihren W\u00fcnschen gestalten k\u00f6nnen. Besuchen Sie jetzt unseren Online-Shop und entdecken Sie die M\u00f6glichkeiten, die Abt\u00f6nfarben bieten."
+          },
+          {
+            "title": "Autolack-Sprays",
+            "text": "<a href=\"/kategorie/autolack-sprays/\" title=\"Autolack-Sprays\">Autolack-Sprays</a> sind eine praktische und kosteneffiziente L\u00f6sung f\u00fcr alle, die ihr Auto reparieren oder auffrischen m\u00f6chten. Diese Sprays erm\u00f6glichen es Ihnen, kleine Kratzer oder Beulen auf Ihrem Auto schnell und einfach zu reparieren, ohne einen teuren Lackierer aufzusuchen. Farbenfest24 bietet eine breite Palette an Autolack-Sprays in verschiedenen Farben und Finishes, damit Sie Ihr Auto wieder in neuem Glanz erstrahlen lassen k\u00f6nnen. Besuchen Sie jetzt unseren Online-Shop und entdecken Sie die Vorteile der Autolack-Sprays."
+          },
+          {
+            "title": "Speziallacke",
+            "text": "<a href=\"/kategorie/speziallacke/\" title=\"Speziallacke\">Speziallacke</a> sind hochwertige Lacke, die f\u00fcr besondere Anwendungsbereiche entwickelt wurden. Diese Lacke bieten eine hervorragende Abrieb- und Kratzfestigkeit sowie eine hohe Best\u00e4ndigkeit gegen\u00fcber Feuchtigkeit und Chemikalien. Mit Speziallacken k\u00f6nnen Sie alle Oberfl\u00e4chen optimal sch\u00fctzen und gleichzeitig ein ansprechendes Aussehen erzielen. Entdecken Sie die vielf\u00e4ltigen M\u00f6glichkeiten, die Ihnen unsere Speziallacke bieten, und finden Sie die passende L\u00f6sung f\u00fcr Ihre Projekte. "
+          },
+          {
+            "title": "Metallschutzlacke",
+            "text": "<a href=\"/kategorie/metallschutzlacke/\" title=\"Metallschutzlacke\">Metallschutzlacke</a> sind eine hervorragende Wahl, um Metalloberfl\u00e4chen zu sch\u00fctzen und vor Rost und Korrosion zu bewahren. Diese Lacke bieten eine hohe Best\u00e4ndigkeit gegen Feuchtigkeit und Chemikalien sowie eine hervorragende Haftf\u00e4higkeit auf Metall. Mit Metallschutzlacken k\u00f6nnen Sie eine lange Lebensdauer f\u00fcr Ihre Metallteile sicherstellen und gleichzeitig ein ansprechendes Aussehen erzielen. Entdecken Sie die Vorteile, die Ihnen unsere Metallschutzlacke bieten, und finden Sie die passende L\u00f6sung f\u00fcr Ihre Projekte. "
+          },
+          {
+            "title": "M\u00f6bellacke",
+            "text": "<a href=\"/kategorie/moebellacke/\" title=\"M\u00f6bellacke\">M\u00f6bellacke</a> sind eine hervorragende Wahl, um M\u00f6belst\u00fccke zu sch\u00fctzen und ihnen ein ansprechendes Aussehen zu verleihen. Diese Lacke bieten eine hohe Best\u00e4ndigkeit gegen Feuchtigkeit und Abrieb sowie eine hervorragende Haftf\u00e4higkeit auf Holz. Mit M\u00f6bellacken k\u00f6nnen Sie jedem M\u00f6belst\u00fcck eine lange Lebensdauer sicherstellen und gleichzeitig ein ansprechendes Aussehen erzielen. Entdecken Sie die Vorteile, die Ihnen unsere M\u00f6bellacke bieten, und finden Sie die passende L\u00f6sung f\u00fcr Ihre Projekte."
+          },
+          {
+            "title": "Fliesenlacke",
+            "text": "<a href=\"/kategorie/fliesenlacke/\" title=\"Fliesenlacke\">Fliesenlacke</a> von Farbenfest24: Entdecken Sie die Vielfalt an hochwertigen Fliesenlacken f\u00fcr Ihre Fliesen. Ob als Neuanstrich oder Renovierung, mit den Fliesenlacken von Farbenfest24 k\u00f6nnen Sie Ihre Fliesen in neuem Glanz erstrahlen lassen. Alle Lacke sind hochwertig und langlebig, sodass Sie lange Freude an Ihren renovierten Fliesen haben werden."
+          },
+          {
+            "title": "Fu\u00dfbodenfarben",
+            "text": "Farbenfest24 bietet eine breite Palette an <a href=\"/kategorie/fussbodenfarben/\" title=\"Fussbodenfarben\">Fussbodenfarben</a>, die f\u00fcr eine Vielzahl von Untergr\u00fcnden geeignet sind. Ob f\u00fcr Holz- oder Betonb\u00f6den, bei Farbenfest24 finden Sie die passende Farbe f\u00fcr Ihren Fu\u00dfboden. Alle Farben sind langlebig, strapazierf\u00e4hig und einfach zu verarbeiten. Entdecken Sie jetzt die Vielfalt an Fu\u00dfbodenfarben von Farbenfest24."
+          },
+          {
+            "title": "Lehmfarben",
+            "text": "Erleben Sie die nat\u00fcrliche Sch\u00f6nheit von <a href=\"/kategorie/lehmfarben/\" title=\"Lehmfarben\">Lehmfarben</a> mit Farbenfest24. Unsere Lehmfarben sind aus nat\u00fcrlichen Rohstoffen hergestellt und eignen sich ideal f\u00fcr den Innenbereich. Die Farben sind atmungsaktiv und haben eine nat\u00fcrliche Feuchtigkeitsregulierung. Entdecken Sie jetzt die Vielfalt an Lehmfarben und bringen Sie Natur in Ihr Zuhause mit Farbenfest24."
+          },
+          {
+            "title": "Vorlacke",
+            "text": "Unsere hochwertigen <a href=\"/kategorie/vorlacke/\" title=\"Vorlacke\">Vorlacke</a> sind die perfekte Grundlage f\u00fcr eine lange Haltbarkeit und eine hervorragende Deckkraft Ihrer Farben. Wir bieten eine breite Palette an Farbt\u00f6nen und verschiedenen Finish-Optionen, um Ihnen die besten Ergebnisse zu bieten. Verleihen Sie Ihren Projekten den perfekten Start mit unseren Vorlacken."
+          },
+          {
+            "title": "Kalkfarben",
+            "text": "Erleben Sie die nat\u00fcrliche Sch\u00f6nheit von <a href=\"/kategorie/kalkfarben/\" title=\"Kalkfarben\">Kalkfarben</a> in Ihrem Zuhause. Unsere Kalkfarben sind umweltfreundlich und geben Ihren W\u00e4nden eine nat\u00fcrliche Ausstrahlung. Wir bieten eine gro\u00dfe Auswahl an Farbt\u00f6nen und Finishes, damit Sie genau das erhalten, was Sie brauchen. Verleihen Sie Ihren R\u00e4umen eine warme und gem\u00fctliche Atmosph\u00e4re mit unseren Kalkfarben."
+          },
+          {
+            "title": "Treppenlacke & Parkettlacke",
+            "text": "Sch\u00fctzen Sie Ihre B\u00f6den vor Abnutzung und Verschlei\u00df mit unseren hochwertigen Treppen- und Parkettlacken. Wir bieten eine breite Palette an Farbt\u00f6nen und Finish-Optionen, um Ihnen die besten Ergebnisse zu bieten. Verleihen Sie Ihren B\u00f6den ein gl\u00e4nzendes Aussehen und eine lange Haltbarkeit mit unseren Treppen- und Parkettlacken."
+          },
+          {
+            "title": "Beize",
+            "text": "<a href=\"/kategorie/beize/\" title=\"Beize\">Beize</a> ist ein wichtiger Bestandteil jeder Renovierung oder Restaurierung. Es dient dazu, das Material vorzubereiten, bevor es gestrichen wird. Im Online-Shop von Farbenfest24 finden Sie eine gro\u00dfe Auswahl an hochwertigen Beizen f\u00fcr alle Arten von Untergr\u00fcnden. Ob Holz, Mauerwerk, Metall oder andere Materialien - bei uns finden Sie die passende Beize f\u00fcr Ihr Projekt."
+          },
+          {
+            "title": "Fliesenfarben",
+            "text": "<a href=\"/kategorie/fliesenfarben/\" title=\"Fliesenfarben\">Fliesenfarben</a> bieten eine einfache und kosteng\u00fcnstige M\u00f6glichkeit, Ihre alten und abgenutzten Fliesen wieder aufzufrischen. Im Online-Shop von Farbenfest24 finden Sie eine gro\u00dfe Auswahl an Fliesenfarben in verschiedenen Farbt\u00f6nen, die Ihre Fliesen wieder zum Strahlen bringen. Ob im Bad, K\u00fcche oder anderen R\u00e4umen - mit Fliesenfarben k\u00f6nnen Sie schnell und einfach ein neues Aussehen schaffen."
+          },
+          {
+            "title": "Fensterlacke",
+            "text": "<a href=\"/kategorie/fensterlacke/\" title=\"Fensterlacke\">Fensterlacke</a> sind ein wichtiger Bestandteil jeder Renovierung oder Restaurierung. Sie sch\u00fctzen das Holz vor Feuchtigkeit und UV-Strahlung und sorgen f\u00fcr eine lange Lebensdauer. Im Online-Shop von Farbenfest24 finden Sie eine gro\u00dfe Auswahl an hochwertigen Fensterlacken f\u00fcr alle Arten von Holzfenstern. Ob Innen- oder Au\u00dfenlacke - bei uns finden Sie die passende L\u00f6sung f\u00fcr Ihr Projekt."
+          },
+          {
+            "title": "Bodenbeschichtungen",
+            "text": "Im Online-Shop Farbenfest24 finden Sie eine gro\u00dfe Auswahl an hochwertigen <a href=\"/kategorie/bodenbeschichtungen/\" title=\"Bodenbeschichtungen\">Bodenbeschichtungen</a>. Unsere Produkte sind langlebig und widerstandsf\u00e4hig, um Ihrem Boden ein neues Leben zu verleihen. St\u00f6bern Sie in unserer Kategorie Bodenbeschichtungen und entdecken Sie die perfekte L\u00f6sung f\u00fcr Ihren Boden."
+          },
+          {
+            "title": "Garagen-Bodenfarben",
+            "text": "Geben Sie Ihrer Garage ein neues Aussehen mit den hochwertigen <a href=\"/kategorie/garagen-bodenfarben/\" title=\"Garagen-Bodenfarben\">Garagen-Bodenfarben</a> von Farbenfest24. Unsere Farben sind langlebig und widerstandsf\u00e4hig, um Ihren Boden vor Abnutzung und Verschlei\u00df zu sch\u00fctzen. St\u00f6bern Sie in unserer Kategorie Garagen-Bodenfarben und finden Sie die perfekte L\u00f6sung f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Spezial-Sprays",
+            "text": "Farbenfest24 bietet eine gro\u00dfe Auswahl an <a href=\"/kategorie/spezial-sprays/\" title=\"Spezial-Sprays\">Spezial-Sprays</a> f\u00fcr alle Ihre Bed\u00fcrfnisse. Unsere Sprays sind einfach zu verwenden und liefern ein gleichm\u00e4\u00dfiges Ergebnis. St\u00f6bern Sie in unserer Kategorie Spezial-Sprays und entdecken Sie die perfekte L\u00f6sung f\u00fcr Ihre Projekte."
+          },
+          {
+            "title": "Latexfarben",
+            "text": "Entdecken Sie bei Farbenfest24 eine gro\u00dfe Auswahl an hochwertigen <a href=\"/kategorie/latexfarben/\" title=\"Latexfarben\">Latexfarben</a>. Als besonders umweltfreundliche Farbvariante eignen sie sich ideal f\u00fcr den Einsatz in Wohnr\u00e4umen. \u00dcberzeugen Sie sich von der hohen Deckkraft und den brillanten Farben. Mit den passenden Vorstreichfarben und der Holzpflegeprodukte von Farbenfest24 erzielen Sie beste Ergebnisse f\u00fcr Ihre Projekte."
+          },
+          {
+            "title": "Vorstreichfarben",
+            "text": "Eine gute Vorbereitung ist das A und O bei jedem Malprojekt. Mit den hochwertigen <a href=\"/kategorie/vorstreichfarben/\" title=\"Vorstreichfarben\">Vorstreichfarben</a> von Farbenfest24 garantieren Sie eine optimale Grundierung f\u00fcr Ihre Farbauftr\u00e4ge. W\u00e4hlen Sie aus einer breiten Palette an Farbt\u00f6nen und finden Sie die passende Vorstreichfarbe f\u00fcr Ihre Bed\u00fcrfnisse. Entdecken Sie jetzt die Vielfalt bei Farbenfest24."
+          },
+          {
+            "title": "Holzpflege",
+            "text": "Sch\u00fctzen und pflegen Sie Ihre Holzoberfl\u00e4chen mit den hochwertigen <a href=\"/kategorie/holzpflege/\" title=\"Holzpflege\">Holzpflege</a>produkten von Farbenfest24. Ob Terrassen, Gartenm\u00f6bel oder Holzfassaden, mit den passenden Produkten erh\u00e4lt Ihr Holz eine lange Lebensdauer. \u00dcberzeugen Sie sich von der einfachen Anwendung und dem hervorragenden Schutz vor Witterungseinfl\u00fcssen. Entdecken Sie jetzt die Vielfalt bei Farbenfest24."
+          },
+          {
+            "title": "Grundierfarben",
+            "text": "Die <a href=\"/kategorie/grundierfarben/\" title=\"Grundierfarben\">Grundierfarben</a> bei Farbenfest24 bieten eine optimale Vorbereitung f\u00fcr Ihre Malerarbeiten. Unsere hochwertigen Grundierfarben sorgen f\u00fcr eine gleichm\u00e4\u00dfige Oberfl\u00e4che und eine optimale Haftung der Endfarbe. Entdecken Sie jetzt unser vielf\u00e4ltiges Angebot an Grundierfarben f\u00fcr unterschiedliche Untergr\u00fcnde."
+          },
+          {
+            "title": "Anti-Schimmelfarben",
+            "text": "Schimmel ist ein h\u00e4ufiges Problem in Wohnr\u00e4umen. Mit den <a href=\"/kategorie/anti-schimmelfarben/\" title=\"Anti-Schimmelfarben\">Anti-Schimmelfarben</a> von Farbenfest24 k\u00f6nnen Sie diesem Problem effektiv begegnen. Unsere Anti-Schimmelfarben sind speziell entwickelt, um Schimmelbildung zu verhindern und bereits bestehenden Schimmel effektiv zu bek\u00e4mpfen. Entdecken Sie jetzt unser vielf\u00e4ltiges Angebot an Anti-Schimmelfarben."
+          },
+          {
+            "title": "Heizk\u00f6rperlacke",
+            "text": "Heizk\u00f6rper sind ein wichtiger Bestandteil jedes Zuhauses. Mit den <a href=\"/kategorie/heizkoerperlacke/\" title=\"Heizk\u00f6rperlacke\">Heizk\u00f6rperlacke</a>n von Farbenfest24 k\u00f6nnen Sie Ihre Heizk\u00f6rper nicht nur sch\u00fctzen, sondern auch optisch aufwerten. Unsere Heizk\u00f6rperlacke sind hochwertig und langlebig, so dass Sie lange Freude an Ihren neu gestalteten Heizk\u00f6rpern haben werden. Entdecken Sie jetzt unser vielf\u00e4ltiges Angebot an Heizk\u00f6rperlacken."
+          },
+          {
+            "title": "Holzbodenbeschichtungen",
+            "text": "Entdecken Sie unsere vielf\u00e4ltige Auswahl an <a href=\"/kategorie/holzbodenbeschichtungen/\" title=\"Holzbodenbeschichtungen\">Holzbodenbeschichtungen</a> f\u00fcr den Innen- und Au\u00dfenbereich. Wir bieten Ihnen hochwertige Produkte, die Ihren Holzboden vor Abnutzung und Witterungseinfl\u00fcssen sch\u00fctzen und ihm gleichzeitig eine attraktive Optik verleihen. Ob Sie Ihren Parkettboden renovieren oder einen neuen Holzboden verlegen m\u00f6chten - bei uns finden Sie die passende Beschichtung f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "K\u00fcnstlerfarben",
+            "text": "F\u00fcr kreative Projekte und Kunstwerke bieten wir Ihnen eine breite Auswahl an <a href=\"/kategorie/kuenstlerfarben/\" title=\"K\u00fcnstlerfarben\">K\u00fcnstlerfarben</a> in verschiedenen Farbnuancen und Formen. Von Acrylfarben \u00fcber \u00d6lfarben bis hin zu Aquarellfarben - wir haben alles, was das K\u00fcnstlerherz begehrt. Lassen Sie Ihrer Kreativit\u00e4t freien Lauf und kaufen Sie Ihre K\u00fcnstlerfarben bequem online bei Farbenfest24."
+          },
+          {
+            "title": "Acrylfarben",
+            "text": "<a href=\"/kategorie/acrylfarben/\" title=\"Acrylfarben\">Acrylfarben</a> sind ein beliebtes Medium f\u00fcr K\u00fcnstler und Bastler. Sie trocknen schnell und haben eine hohe Deckkraft. Unsere Acrylfarben sind in einer Vielzahl von Farbnuancen erh\u00e4ltlich und eignen sich f\u00fcr eine Vielzahl von Untergr\u00fcnden, einschlie\u00dflich Leinwand, Papier und Holz. Entdecken Sie jetzt unser Angebot an hochwertigen Acrylfarben."
+          },
+          {
+            "title": "Nikotinfarben",
+            "text": "<a href=\"/kategorie/nikotinfarben/\" title=\"Nikotinfarben\">Nikotinfarben</a> sind eine gro\u00dfartige Wahl f\u00fcr alle, die ihre W\u00e4nde und M\u00f6bel neu gestalten m\u00f6chten. Diese Farben sind besonders geeignet f\u00fcr R\u00e4ume, die regelm\u00e4\u00dfig geraucht werden, da sie den Nikotingeruch neutralisieren. Bei Farbenfest24.de finden Sie eine breite Auswahl an Nikotinfarben in verschiedenen Farbt\u00f6nen und Qualit\u00e4ten. \u00dcberzeugen Sie sich selbst von der hervorragenden Deckkraft und der einfachen Verarbeitbarkeit dieser Farben."
+          },
+          {
+            "title": "Betonfarben",
+            "text": "<a href=\"/kategorie/betonfarben/\" title=\"Betonfarben\">Betonfarben</a> sind eine moderne und stilvolle Wahl f\u00fcr alle, die ihren Boden oder ihre Wand neu gestalten m\u00f6chten. Diese Farben k\u00f6nnen verwendet werden, um eine attraktive Textur und einen industrialen Look zu schaffen. Bei Farbenfest24.de finden Sie eine gro\u00dfe Auswahl an Betonfarben in verschiedenen Farbt\u00f6nen und Qualit\u00e4ten. \u00dcberzeugen Sie sich selbst von der einfachen Verarbeitbarkeit und der hervorragenden Haltbarkeit dieser Farben."
+          },
+          {
+            "title": "Rostschutzgrund",
+            "text": "<a href=\"/kategorie/rostschutzgrund/\" title=\"Rostschutzgrund\">Rostschutzgrund</a> ist ein unverzichtbares Produkt f\u00fcr alle, die ihre Metallobjekte vor Rost sch\u00fctzen m\u00f6chten. Dieser Grund verhindert, dass Feuchtigkeit und Luft in den Untergrund eindringen, wodurch Rostbildung vermieden wird. Bei Farbenfest24.de finden Sie eine breite Auswahl an Rostschutzgrund in verschiedenen Qualit\u00e4ten. \u00dcberzeugen Sie sich selbst von der einfachen Verarbeitbarkeit und der hervorragenden Schutzwirkung dieses Produkts."
+          },
+          {
+            "title": "Bauchemie",
+            "text": "<a href=\"/kategorie/bauchemie/\" title=\"Bauchemie\">Bauchemie</a> ist ein wichtiger Bestandteil jedes Bauprojekts. Bei Farbenfest24 finden Sie eine breite Auswahl an hochwertigen Bauchemieprodukten, die Ihnen dabei helfen, Ihre Bauprojekte erfolgreich umzusetzen. Von Grundierungen und Dichtstoffen bis hin zu Reinigungsprodukten - wir haben alles, was Sie brauchen. \u00dcberzeugen Sie sich selbst von unserer Qualit\u00e4t und bestellen Sie noch heute Ihre Bauchemieprodukte bei Farbenfest24."
+          },
+          {
+            "title": "Isolierfarben",
+            "text": "<a href=\"/kategorie/isolierfarben/\" title=\"Isolierfarben\">Isolierfarben</a> sind ein wichtiger Bestandteil jedes energiesparenden Bauprojekts. Sie tragen dazu bei, Energie zu sparen und Ihr Zuhause komfortabler zu gestalten. Bei Farbenfest24 finden Sie eine gro\u00dfe Auswahl an Isolierfarben in verschiedenen Farben und Qualit\u00e4ten. Ob Sie eine neue Wandfarbe f\u00fcr Ihr Zuhause ben\u00f6tigen oder eine neue Farbe f\u00fcr Ihr B\u00fcro - wir haben das Richtige f\u00fcr Sie. Bestellen Sie noch heute Ihre Isolierfarben bei Farbenfest24."
+          },
+          {
+            "title": "Magnetfarben",
+            "text": "<a href=\"/kategorie/magnetfarben/\" title=\"Magnetfarben\">Magnetfarben</a> sind eine besondere Art von Farben, die eine magnetische Wirkung haben. Sie k\u00f6nnen verwendet werden, um magnetische Oberfl\u00e4chen zu schaffen, auf denen Sie Dinge wie Notizen und Fotos aufh\u00e4ngen k\u00f6nnen. Bei Farbenfest24 finden Sie eine gro\u00dfe Auswahl an Magnetfarben in verschiedenen Farben und Qualit\u00e4ten. \u00dcberzeugen Sie sich selbst von unserer Qualit\u00e4t und bestellen Sie noch heute Ihre Magnetfarben bei Farbenfest24."
+          },
+          {
+            "title": "Tafelfarben",
+            "text": "Entdecken Sie die Welt der <a href=\"/kategorie/tafelfarben/\" title=\"Tafelfarben\">Tafelfarben</a> bei Farbenfest24.de. Ob f\u00fcr Schulen, B\u00fcros oder zu Hause, wir bieten eine gro\u00dfe Auswahl an hochwertigen Tafelfarben, die langlebig und leicht zu reinigen sind. Alle Tafelfarben sind in verschiedenen Farben und Gr\u00f6\u00dfen erh\u00e4ltlich, um Ihren Anforderungen gerecht zu werden. \u00dcberzeugen Sie sich selbst von unseren Produkten und bestellen Sie noch heute bei Farbenfest24.de."
+          },
+          {
+            "title": "Rostschutzfarben",
+            "text": "Sch\u00fctzen Sie Ihr Eigentum vor Rost und Korrosion mit den <a href=\"/kategorie/rostschutzfarben/\" title=\"Rostschutzfarben\">Rostschutzfarben</a> von Farbenfest24.de. Unsere Rostschutzfarben sind ideal f\u00fcr den Einsatz im Au\u00dfenbereich und sorgen f\u00fcr eine lange Lebensdauer Ihrer Gegenst\u00e4nde. Wir bieten eine breite Palette an Farben, um Ihren Anforderungen gerecht zu werden. Bestellen Sie noch heute und sch\u00fctzen Sie Ihr Eigentum bei Farbenfest24.de."
+          },
+          {
+            "title": "Aquarellfarben",
+            "text": "Erwecken Sie Ihre Kreativit\u00e4t mit den <a href=\"/kategorie/aquarellfarben/\" title=\"Aquarellfarben\">Aquarellfarben</a> von Farbenfest24.de. Unsere Aquarellfarben sind von hoher Qualit\u00e4t und eignen sich hervorragend f\u00fcr Anf\u00e4nger und Profis. Wir bieten eine breite Palette an Farben, um Ihren Anforderungen gerecht zu werden. Entdecken Sie jetzt die Welt der Aquarellfarben bei Farbenfest24.de."
+          },
+          {
+            "title": "\u00d6lfarben",
+            "text": "<a href=\"/kategorie/oelfarben/\" title=\"\u00d6lfarben\">\u00d6lfarben</a> sind eine hervorragende Wahl f\u00fcr Maler, die ein langes Trocknungszeitbed\u00fcrfnis haben. In unserem Online-Shop Farbenfest24.de finden Sie eine gro\u00dfe Auswahl an \u00d6lfarben in verschiedenen Farbt\u00f6nen und Finishes. Unsere \u00d6lfarben sind hochwertig und langlebig, perfekt f\u00fcr professionelle Projekte oder auch f\u00fcr den Heimgebrauch. Entdecken Sie jetzt unsere Auswahl an \u00d6lfarben und finden Sie die Farbe, die Ihren kreativen Visionen entspricht."
+          },
+          {
+            "title": "Spr\u00fchfarben",
+            "text": "<a href=\"/kategorie/spruehfarben/\" title=\"Spr\u00fchfarben\">Spr\u00fchfarben</a> sind eine schnelle und einfache M\u00f6glichkeit, Objekte zu beschichten und zu dekorieren. In unserem Online-Shop Farbenfest24.de finden Sie eine gro\u00dfe Auswahl an Spr\u00fchfarben f\u00fcr unterschiedliche Anwendungen. Ob Sie ein M\u00f6belst\u00fcck auffrischen, eine Wand gestalten oder ein Kunstwerk erschaffen m\u00f6chten - unsere Spr\u00fchfarben bieten Ihnen eine einfache L\u00f6sung mit professionellem Finish. Entdecken Sie jetzt unsere Auswahl an Spr\u00fchfarben."
+          },
+          {
+            "title": "Textilfarben",
+            "text": "<a href=\"/kategorie/textilfarben/\" title=\"Textilfarben\">Textilfarben</a> erm\u00f6glichen es Ihnen, Ihre Kleidung und Heimtextilien individuell zu gestalten. In unserem Online-Shop Farbenfest24.de finden Sie eine gro\u00dfe Auswahl an Textilfarben in verschiedenen Farbt\u00f6nen und Finishes. Unsere Textilfarben sind langlebig und waschmaschinenfest, perfekt f\u00fcr den Einsatz auf Kleidung, Taschen, Vorh\u00e4ngen und vielem mehr. Entdecken Sie jetzt unsere Auswahl an Textilfarben und lassen Sie Ihrer Kreativit\u00e4t freien Lauf."
+          },
+          {
+            "title": "Bootslacke",
+            "text": "Entdecken Sie in unserer Kategorie <a href=\"/kategorie/bootslacke/\" title=\"Bootslacke\">Bootslacke</a> eine breite Auswahl an hochwertigen Lacke f\u00fcr Ihr Boot. Unsere Bootslacke bieten eine lange Haltbarkeit und beste Schutzwirkung f\u00fcr Ihr Boot. Ob f\u00fcr den Innen- oder Au\u00dfenbereich, wir haben die passende Bootslack f\u00fcr jeden Bedarf. \u00dcberzeugen Sie sich selbst von der Qualit\u00e4t unserer Bootslacke und bestellen Sie noch heute bei Farbenfest24.de."
+          },
+          {
+            "title": "Effektmittel",
+            "text": "Mit den <a href=\"/kategorie/effektmittel/\" title=\"Effektmittel\">Effektmittel</a>n aus unserem Online-Shop Farbenfest24.de k\u00f6nnen Sie Ihren Projekten das gewisse Extra verleihen. Ob Metallic-Effekte, Glitzereffekte oder andere besondere Oberfl\u00e4chen, mit unseren hochwertigen Effektmitteln wird jedes Projekt zum Hingucker. Entdecken Sie die Vielfalt unserer Effektmittel und lassen Sie Ihrer Kreativit\u00e4t freien Lauf. Bestellen Sie noch heute bei Farbenfest24.de."
+          },
+          {
+            "title": "Wei\u00dflack-Sprays",
+            "text": "In unserer Kategorie <a href=\"/kategorie/weisslack-sprays/\" title=\"Weisslack-Sprays\">Weisslack-Sprays</a> finden Sie eine gro\u00dfe Auswahl an hochwertigen Wei\u00dflack-Sprays f\u00fcr unterschiedliche Anwendungsbereiche. Ob f\u00fcr M\u00f6bel, Heimwerkerprojekte oder andere Gegenst\u00e4nde, unsere Wei\u00dflack-Sprays bieten eine einfache und schnelle Anwendung, sowie eine lange Haltbarkeit. \u00dcberzeugen Sie sich selbst von der Qualit\u00e4t unserer Wei\u00dflack-Sprays und bestellen Sie noch heute bei Farbenfest24.de."
+          },
+          {
+            "title": "Effektfarben",
+            "text": "Entdecken Sie die vielf\u00e4ltigen <a href=\"/kategorie/effektfarben/\" title=\"Effektfarben\">Effektfarben</a> bei Farbenfest24. Hier finden Sie eine gro\u00dfe Auswahl an Farben mit besonderen Effekten wie Glanz, Metallic, Struktur und vielem mehr. Verleihen Sie Ihren Projekten das gewisse Extra mit den ansprechenden Effektfarben. \u00dcberzeugen Sie sich selbst von der hohen Qualit\u00e4t und den einzigartigen M\u00f6glichkeiten, die Ihnen die Effektfarben bieten."
+          },
+          {
+            "title": "Holzwurmfrei",
+            "text": "Sch\u00fctzen Sie Ihre Holzgegenst\u00e4nde vor Holzw\u00fcrmern mit den <a href=\"/kategorie/holzwurmfrei/\" title=\"Holzwurmfrei\">Holzwurmfrei</a>-Produkten von Farbenfest24. Hier finden Sie eine breite Auswahl an hochwirksamen Mitteln, die effektiv gegen Holzw\u00fcrmer vorgehen und Ihre M\u00f6bel, T\u00fcren und andere Holzgegenst\u00e4nde sch\u00fctzen. \u00dcberzeugen Sie sich selbst von der hohen Qualit\u00e4t und der einfachen Anwendung unserer Holzwurmfrei-Produkte."
+          },
+          {
+            "title": "Farbmischservice",
+            "text": "Mit dem <a href=\"/kategorie/farbmischservice/\" title=\"Farbmischservice\">Farbmischservice</a> von Farbenfest24 k\u00f6nnen Sie ganz einfach die Farbe erhalten, die Sie f\u00fcr Ihr Projekt ben\u00f6tigen. W\u00e4hlen Sie aus einer gro\u00dfen Auswahl an Farbt\u00f6nen und lassen Sie uns die Farbe genau nach Ihren W\u00fcnschen mischen. \u00dcberzeugen Sie sich selbst von der hohen Qualit\u00e4t unseres Farbmischservices und der perfekten Farbabstimmung, die wir f\u00fcr Sie erreichen."
+          },
+          {
+            "title": "Farbtonf\u00e4cher",
+            "text": "<a href=\"/kategorie/farbtonfaecher/\" title=\"Farbtonf\u00e4cher\">Farbtonf\u00e4cher</a> sind ein unverzichtbares Werkzeug f\u00fcr jeden Maler oder Lackierer. In unserem Online-Shop finden Sie eine gro\u00dfe Auswahl an Farbtonf\u00e4chern f\u00fcr jeden Bedarf. Egal, ob Sie einen Farbton f\u00fcr Ihre Wand oder Ihr M\u00f6belst\u00fcck finden m\u00f6chten, wir haben die passende L\u00f6sung f\u00fcr Sie. Alle Farbtonf\u00e4cher sind von hoher Qualit\u00e4t und bieten eine pr\u00e4zise Darstellung der Farbt\u00f6ne. \u00dcberzeugen Sie sich selbst von unserer gro\u00dfen Auswahl und bestellen Sie noch heute Ihren Farbtonf\u00e4cher!"
+          },
+          {
+            "title": "Holzreiniger",
+            "text": "<a href=\"/kategorie/holzreiniger/\" title=\"Holzreiniger\">Holzreiniger</a> sind ein wichtiger Bestandteil f\u00fcr die Pflege und Reinigung von Holzoberfl\u00e4chen. In unserem Online-Shop finden Sie eine gro\u00dfe Auswahl an Holzreinigern f\u00fcr alle Arten von Holz. Ob f\u00fcr M\u00f6bel, Bodenbel\u00e4ge oder Holzdecken, wir haben die passende L\u00f6sung f\u00fcr Sie. Alle Holzreiniger in unserem Sortiment sind sorgf\u00e4ltig ausgew\u00e4hlt und bieten eine effektive Reinigung Ihrer Holzoberfl\u00e4chen. \u00dcberzeugen Sie sich selbst von unserer Qualit\u00e4t und bestellen Sie noch heute Ihren Holzreiniger!"
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE - eine riesige Auswahl hochwertiger Produkte!",
-        "defaultMetaDescription": "Bei uns findest Du eine riesige Auswahl an Produkten der Kategorie $KATEGORIE. Alles in einer Top-Qualität zu fairen Preisen.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Der Shop f\u00fcr Farben & Lacke",
+      "metaDescription": "Finde eine unschlagbare Auswahl unterschiedlicher Farben & Lacke. Unser Online Shop l\u00e4sst keine W\u00fcnsche offen, um das n\u00e4chste DIY-Projekt kreativ zu meistern!",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "Günstig Produkte von $HERSTELLER kaufen",
-        "defaultMetaDescription": "$HERSTELLER - immer die richtige Wahl! Jetzt ganz einfach online bestellen und weitere Produkte entdecken. Günstig. Zuverlässig. Langlebig.",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Farben & Lacke",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Farben & Lacke Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Farben & Lacke Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Farben & Lacke - die besten Markenanbieter bei uns!",
+      "metaDescription": "\u00dcberzeuge Dich selbst von unserer riesigen Auswahl bekannter Markenprodukte wie Alpina, Bondex, Edding, Knauf uvm. Wir garantieren Qualit\u00e4t und Langlebigkeit!",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT - Die perfekte Wahl f\u00fcr dein Projekt",
+    "defaultMetaDescription": "$PRODUKT vom Hersteller $HERSTELLER - Farben & Lacke f\u00fcr jeden Anlass.  Finde noch viele weitere passende Produkte in der Kategorie $KATEGORIE.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE - eine riesige Auswahl hochwertiger Produkte!",
+    "defaultMetaDescription": "Bei uns findest Du eine riesige Auswahl an Produkten der Kategorie $KATEGORIE. Alles in einer Top-Qualit\u00e4t zu fairen Preisen.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "G\u00fcnstig Produkte von $HERSTELLER kaufen",
+    "defaultMetaDescription": "$HERSTELLER - immer die richtige Wahl! Jetzt ganz einfach online bestellen und weitere Produkte entdecken. G\u00fcnstig. Zuverl\u00e4ssig. Langlebig.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Farben & Lacke",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Farben & Lacke Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Farben & Lacke Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
